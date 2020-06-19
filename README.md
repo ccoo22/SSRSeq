@@ -4,7 +4,7 @@ A typing tool based on NGS SSR abundance table
 
 Program: str type， A typing tool based on NGS SSR abundance table
 Usage:   perl str_type.pl [options]
-
+ 
 Options:
         [required]
          --input/-i         Sample STR abundance table（Supports simultaneous analysis of multiple fragments）
