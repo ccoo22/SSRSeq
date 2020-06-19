@@ -2,9 +2,13 @@
 A typing tool based on NGS SSR abundance table
 
 
+
 Program: str type， A typing tool based on NGS SSR abundance table
+Version: 2019-12-17
+Contact: 129 bin gan
+
 Usage:   perl str_type.pl [options]
- 
+
 Options:
         [required]
          --input/-i         Sample STR abundance table（Supports simultaneous analysis of multiple fragments）
@@ -45,6 +49,7 @@ Options:
         --min_rc             the minimum relative copy number required for typing, ranges from 0 to 1. if the relative copy number of the sample is lower than this value, alleles are directly excluded, default: 0
 
          --help/-h           help doc
+ 
     
 
 Dependencies:
