@@ -1,0 +1,3 @@
+target	motif	ploid	homology	noise_cutoff	type_cutoff
+Camellia_SSR_013	TCC	6	1	0.05	0.083
+Camellia_SSR_016	CAA	6	1	0.05	0.083
