@@ -11,7 +11,7 @@ Usage:   perl str_type.pl [options]
 
 Options:
         [required]
-         --input/-i         Sample STR abundance table（Supports simultaneous analysis of multiple fragments）
+         --input/-i         Sample STR abundance table(Supports simultaneous analysis of multiple fragments)
          --motif/-m         STR motif information table
                             this file declares each fragment's motif information, copy number information, etc. (must include all fragments appearing in input, the header is fixed)
                             Must contain 6 columns, the column names are:
