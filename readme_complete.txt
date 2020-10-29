@@ -1,27 +1,27 @@
-Sheet Name	标注与说明	
-Reads	target	片段名称
-Reads	str	测序STR,格式为：motif(motif数量)
-Reads	样本	本片断测序得到的STR对应的reads数量
-Freq	样本	本片断测序得到的STR对应的频率。红色表示频率大于分型阈值，橘黄色表示在噪音阈值和分型阈值之间。
-SlipRatio	SlipRatio	片段前滑移比例
-SlipRatio	Type	前滑移比例获取方式，SampleGenerate表示来自于样本，unitary_quadratic_equation表示来自于一元二次函数拟合
-SlipRatio	SampleCount	计算滑移比例的样本数量
-SlipRatio	SlipRatio_median	滑移比例中值
-SlipRatio	SlipRatio_sd	滑移比例标准差
-SlipRatio	SlipRatio_min	滑移比例最小值
-SlipRatio	SlipRatio_max	滑移比例最大值
-SlipRatio	Detail	滑移比例详情
-Reads Correct	校正滑移后的reads数量	
-Freq Correct	校正滑移后的频率	
-Amplification Ratio	AMPR_mean	扩增比例均值
-Amplification Ratio	AMPR_count	用于计算扩增比例的样本量
-Amplification Ratio	AMPR_median	扩增比例均值
-Amplification Ratio	AMPR_sd	扩增比例标准差
-Amplification Ratio	AMPR_min	扩增比例最小值
-Amplification Ratio	AMPR_max	扩增比例最大值
-Amplification Ratio	Detail	扩增比例详情
-Typing Relative	1..N	每个样本在每个片段上的STR分型结果（相对拷贝数）（1..N表示当前分型对应的motif数量）
-Typing Absolute	1..N	每个样本在每个片段上的STR分型结果（绝对拷贝数）（1..N表示当前分型对应的motif数量）
-Genotype	样本基因型	
-Allele	样本等位基因	
-Allele Relative	样本等位基因的相对拷贝数	
+Sheet Name	title	description
+Reads	target	fragment name
+Reads	str	sequence STR, format : motif(motif count)
+Reads	sample	reads count
+Freq	sample	read frequency. red mean over type cutoff. orange mean between type cutoff and noise cutoff.
+SlipRatio	SlipRatio	ratio of front slip
+SlipRatio	Type	Front slip ratio acquisition method, SampleGenerate means come from sample data, unitary_quadratic_equation mean come from unitary quadratic equation
+SlipRatio	SampleCount	the number of samples used in the slip ratio
+SlipRatio	SlipRatio_median	median of slip ratio
+SlipRatio	SlipRatio_sd	standard deviation of slip ratio
+SlipRatio	SlipRatio_min	minimum of slip ratio
+SlipRatio	SlipRatio_max	maximum of slip ratio
+SlipRatio	Detail	detail info of slip ratio
+Reads Correct	reads count after correction	
+Freq Correct	reads frequency after correction	
+Amplification Ratio	AMPR_mean	mean of amplification ratio
+Amplification Ratio	AMPR_count	the number of samples used in the amplification ratio
+Amplification Ratio	AMPR_median	median of amplification ratio
+Amplification Ratio	AMPR_sd	standard deviation of amplification ratio
+Amplification Ratio	AMPR_min	minimum of amplification ratio
+Amplification Ratio	AMPR_max	maximum of amplification ratio
+Amplification Ratio	Detail	detail info of amplification ratio
+Typing Relative	1..N	relative typing result(1..N mean motif count of this allele)
+Typing Absolute	1..N	absolute typing result(1..N mean motif count of this allele)
+Genotype	sample genotype	
+Allele	sample alleles	
+Allele Relative	sample allele copies	
