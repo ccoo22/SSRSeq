@@ -1573,6 +1573,7 @@ Usage:   perl ".(File::Spec->splitpath(File::Spec->rel2abs($0)))[2]." [options]
 Options:
         [required]
          --input/-i         Sample STR abundance table（Supports simultaneous analysis of multiple fragments）
+                            you can get it in the 'str_count.txt' file which produced by my software 'SSRseq_count' (you also need to do a little bit change to fit str_type.pl software)
          --motif/-m         STR motif information table
                             this file declares each fragment's motif information, copy number information, etc. (must include all fragments appearing in input, the header is fixed)
                             Must contain 6 columns, the column names are:
