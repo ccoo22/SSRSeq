@@ -1,1 +1,689 @@
-Sample	target
+Sample	target	1	2	3	4	5	6	7	8	9	10	11	12	13	14
+LU001	Camellia_SSR_013					3.92			2.08						
+LU001	Camellia_SSR_016					2.59		0.95	1.78		0.69				
+LU002	Camellia_SSR_013					5.08		0.92							
+LU002	Camellia_SSR_016					2.42		0.86	1.97	0.75					
+LU003	Camellia_SSR_013				1.65	1.39		1.15	1.81						
+LU003	Camellia_SSR_016							1.14	3.86		1.00				
+LU004	Camellia_SSR_013				1.32	3.00			1.68						
+LU004	Camellia_SSR_016							2.13	2.35		1.52				
+LU005	Camellia_SSR_013				1.11	3.64			1.25						
+LU005	Camellia_SSR_016					1.15		2.85	2.00						
+LU006	Camellia_SSR_013				1.20	2.70		0.82	1.28						
+LU006	Camellia_SSR_016							3.34	1.86		0.80				
+LU007	Camellia_SSR_013					4.31		1.69							
+LU007	Camellia_SSR_016					1.04	1.25	0.85	1.05	1.81					
+LU008	Camellia_SSR_013				1.27	1.54		0.70	2.49						
+LU008	Camellia_SSR_016					2.31		1.90	1.07		0.71				
+LU009	Camellia_SSR_013			4.04					1.26	0.71					
+LU009	Camellia_SSR_016					1.17		1.07	2.95		0.81				
+LU010	Camellia_SSR_013			4.10		1.00		0.45	0.45						
+LU010	Camellia_SSR_016							2.44			3.56				
+LU011	Camellia_SSR_013					3.96		1.43	0.61						
+LU011	Camellia_SSR_016					2.43		0.90	0.95		1.72				
+LU012	Camellia_SSR_013			1.50		2.90		0.39	0.63	0.57					
+LU012	Camellia_SSR_016					1.44		0.92	1.96		1.68				
+LU013	Camellia_SSR_013			1.54	1.35				2.35	0.76					
+LU013	Camellia_SSR_016							1.78	3.41		0.81				
+LU014	Camellia_SSR_013			1.47	1.32	1.09		0.78	1.34						
+LU014	Camellia_SSR_016						3.33	1.06		0.98	0.63				
+LU015	Camellia_SSR_013				1.37	1.44			3.19						
+LU015	Camellia_SSR_016					1.97	1.16	1.09	0.74	1.05					
+LU016	Camellia_SSR_013			1.76		1.08	0.97	1.38	0.81						
+LU016	Camellia_SSR_016					2.16		1.98	0.94	0.91					
+LU017	Camellia_SSR_013			0.92		1.34			3.74						
+LU017	Camellia_SSR_016					1.06	0.99	2.08	0.85	1.01					
+LU018	Camellia_SSR_013				3.04			1.12	1.00	0.83					
+LU018	Camellia_SSR_016					2.11		2.19	0.93		0.77				
+LU019	Camellia_SSR_013			1.59	1.21	2.27			0.92						
+LU019	Camellia_SSR_016					2.04	1.10	1.10			1.76				
+LU023	Camellia_SSR_013				1.27	2.82		0.74	0.62	0.55					
+LU023	Camellia_SSR_016					1.20		2.20	1.02		1.58				
+LU025	Camellia_SSR_013				3.69	1.29		0.42	0.60						
+LU025	Camellia_SSR_016						2.99	1.22			1.79				
+LU026	Camellia_SSR_013					2.29		3.71							
+LU026	Camellia_SSR_016					1.22		3.06			1.72				
+LU027	Camellia_SSR_013				2.11	3.34			0.56						
+LU027	Camellia_SSR_016					2.10	0.93	2.97							
+LU028	Camellia_SSR_013			1.71	1.29			0.92	1.41	0.66					
+LU028	Camellia_SSR_016						1.20		4.03		0.77				
+LU029	Camellia_SSR_013			1.62	1.33				2.33	0.72					
+LU029	Camellia_SSR_016							2.17	3.08		0.75				
+LU030	Camellia_SSR_013				2.55	1.43		0.83	1.19						
+LU030	Camellia_SSR_016					2.36	1.30	1.25	1.09						
+LU032	Camellia_SSR_013				0.34	0.80	0.28	0.69	3.89						
+LU032	Camellia_SSR_016				0.28	0.29		3.99	1.43						
+LU033	Camellia_SSR_013				1.50	1.52		1.68	0.71	0.60					
+LU033	Camellia_SSR_016					1.15	1.11	1.96		0.82	0.96				
+LU035	Camellia_SSR_013					1.68	1.15	1.43	1.74						
+LU035	Camellia_SSR_016					1.11	1.14	1.06	1.93	0.77					
+LU036	Camellia_SSR_013					2.81	0.95	2.23							
+LU036	Camellia_SSR_016					1.16	1.10	0.86	2.88						
+LU037	Camellia_SSR_013					2.01	1.20	1.94	0.85						
+LU037	Camellia_SSR_016					1.16		2.01	1.03		1.81				
+LU038	Camellia_SSR_013					2.96		1.41	1.63						
+LU038	Camellia_SSR_016							2.00	1.18		2.82				
+LU039	Camellia_SSR_013			1.31		3.53			1.17						
+LU039	Camellia_SSR_016							3.19	2.05		0.76				
+LU040	Camellia_SSR_013				2.66	1.27		1.38	0.70						
+LU040	Camellia_SSR_016					1.03	2.03	1.07	0.88	0.99					
+LU041	Camellia_SSR_013				1.26	2.47	1.04		0.63	0.60					
+LU041	Camellia_SSR_016								1.06	1.16	3.78				
+LU042	Camellia_SSR_013				1.33	2.92		1.06	0.69						
+LU042	Camellia_SSR_016						2.25	0.86	1.23	0.94	0.73				
+LU043	Camellia_SSR_013				1.00	4.28	0.72								
+LU043	Camellia_SSR_016					1.09	1.09	1.02	0.90	1.90					
+LU044	Camellia_SSR_013				2.35	2.53		0.62	0.51						
+LU044	Camellia_SSR_016					2.44	1.15	0.85	0.97		0.59				
+LU045	Camellia_SSR_013			0.85		2.80			2.35						
+LU045	Camellia_SSR_016					1.11	0.97	2.16	0.87	0.90					
+LU046	Camellia_SSR_013					4.27		1.73							
+LU046	Camellia_SSR_016						2.17	2.01	0.94	0.89					
+LU047	Camellia_SSR_013				1.54	1.61		1.09	1.76						
+LU047	Camellia_SSR_016				1.24	0.89		0.93	2.07	0.87					
+LU048	Camellia_SSR_013					2.88		2.25	0.87						
+LU048	Camellia_SSR_016					2.13		2.10		1.10	0.67				
+LU049	Camellia_SSR_013			1.01	4.51				0.47						
+LU049	Camellia_SSR_016					1.25	1.19	2.23			1.34				
+LU051	Camellia_SSR_013			1.33	2.15	1.03		0.46	0.53	0.50					
+LU051	Camellia_SSR_016							2.02	2.12	1.08	0.78				
+LU052	Camellia_SSR_013				1.26	2.71			2.02						
+LU052	Camellia_SSR_016					2.48		1.12	1.02	0.81	0.56				
+LU053	Camellia_SSR_013				1.20	2.55		0.93	0.71	0.61					
+LU053	Camellia_SSR_016					1.21		4.19			0.61				
+LU054	Camellia_SSR_013			1.54		1.21	0.98	0.99	1.28						
+LU054	Camellia_SSR_016					1.07	1.21	1.22	1.29		1.20				
+LU055	Camellia_SSR_013				1.28	2.52		0.86	1.34						
+LU055	Camellia_SSR_016					1.16	0.71	3.37	0.75						
+LU056	Camellia_SSR_013					3.73		0.86	1.41						
+LU056	Camellia_SSR_016					2.21		1.00	2.79						
+LU057	Camellia_SSR_013				1.28	2.53		0.93	1.26						
+LU057	Camellia_SSR_016					1.15		3.05	1.80						
+LU058	Camellia_SSR_013					5.37			0.63						
+LU058	Camellia_SSR_016					1.20		3.99			0.81				
+LU059	Camellia_SSR_013					5.17		0.83							
+LU059	Camellia_SSR_016						0.79	2.06	3.16						
+LU060	Camellia_SSR_013					4.81			1.19						
+LU060	Camellia_SSR_016					2.00	1.14	1.72	1.14						
+LU061	Camellia_SSR_013					6.00									
+LU061	Camellia_SSR_016					2.26		2.74	1.01						
+LU063	Camellia_SSR_013					1.42		1.14	2.61	0.83					
+LU063	Camellia_SSR_016					2.32		1.90	1.77						
+LU064	Camellia_SSR_013					1.32	1.18	2.06	0.75	0.69					
+LU064	Camellia_SSR_016					1.84	1.02	1.15		1.99					
+LU065	Camellia_SSR_013				1.67	1.61		0.80	1.92						
+LU065	Camellia_SSR_016					1.22		2.21			2.57				
+LU066	Camellia_SSR_013					1.54		2.02	1.10	1.35					
+LU066	Camellia_SSR_016					1.20		1.99	0.98		1.82				
+LU067	Camellia_SSR_013					3.93		1.36	0.71						
+LU067	Camellia_SSR_016							2.27	0.98		2.74				
+LU069	Camellia_SSR_013				2.81	1.22		0.82	0.59	0.56					
+LU069	Camellia_SSR_016					3.50		0.86	0.97		0.67				
+LU070	Camellia_SSR_013			1.57		2.73		0.90	0.81						
+LU070	Camellia_SSR_016					1.14	1.18		2.93		0.75				
+LU071	Camellia_SSR_013				1.49	1.41	1.07	1.23	0.81						
+LU071	Camellia_SSR_016						2.33		2.90	0.77					
+LU072	Camellia_SSR_013				2.75	1.26			1.99						
+LU072	Camellia_SSR_016					1.01	2.55	2.44							
+LU073	Camellia_SSR_013							1.22	4.78						
+LU073	Camellia_SSR_016					1.15			3.86	0.99					
+LU074	Camellia_SSR_013				1.45	2.60			1.96						
+LU074	Camellia_SSR_016					4.46		1.54							
+LU076	Camellia_SSR_013					1.48		2.94	1.58						
+LU076	Camellia_SSR_016					1.03	1.15	2.15		0.85	0.82				
+LU078	Camellia_SSR_013			2.09		1.58	1.23		1.09						
+LU078	Camellia_SSR_016					1.14		2.05	2.00		0.81				
+LU079	Camellia_SSR_013			1.19	1.30	1.36			1.52	0.64					
+LU079	Camellia_SSR_016					3.64		0.82		1.04	0.50				
+LU080	Camellia_SSR_013					1.52	1.24		1.74	1.50					
+LU080	Camellia_SSR_016					3.84		1.02			1.14				
+LU083	Camellia_SSR_013					3.28		0.55	2.17						
+LU083	Camellia_SSR_016					2.21		1.04	2.09		0.66				
+LU084	Camellia_SSR_013					1.30		3.95	0.74						
+LU084	Camellia_SSR_016					2.35		2.08			1.57				
+LU085	Camellia_SSR_013					1.44		3.14	0.71	0.71					
+LU085	Camellia_SSR_016						1.06	2.31	1.25		1.39				
+LU086	Camellia_SSR_013			1.66		2.47		0.55	1.33						
+LU086	Camellia_SSR_016					1.34		0.88	2.91	0.87					
+LU087	Camellia_SSR_013					1.68	1.39		2.94						
+LU087	Camellia_SSR_016					2.22		2.80	0.98						
+LU088	Camellia_SSR_013			1.48		2.68			1.29	0.55					
+LU088	Camellia_SSR_016						1.02	4.98							
+LU089	Camellia_SSR_013			1.45	1.46			0.94	1.48	0.67					
+LU089	Camellia_SSR_016					1.15		2.79	2.06						
+LU090	Camellia_SSR_013			1.62	1.21	1.18		0.57	1.42						
+LU090	Camellia_SSR_016					1.29		2.15	1.04	0.95	0.57				
+LU091	Camellia_SSR_013			1.20	3.35	0.98		0.48							
+LU091	Camellia_SSR_016					3.58			1.73		0.69				
+LU092	Camellia_SSR_013				2.07	2.65		0.66	0.62						
+LU092	Camellia_SSR_016					2.27		0.93	1.84	0.97					
+LU093	Camellia_SSR_013			4.07				0.72	1.21						
+LU093	Camellia_SSR_016					1.20	1.19	0.93	0.82	1.86					
+LU094	Camellia_SSR_013					2.43		1.95	1.62						
+LU094	Camellia_SSR_016					1.29		0.78	2.94	0.99					
+LU095	Camellia_SSR_013					4.46		0.33	0.61	0.60					
+LU095	Camellia_SSR_016						1.13	1.93	1.04		1.90				
+LU096	Camellia_SSR_013				1.54		0.96	2.18	1.32						
+LU096	Camellia_SSR_016					1.26		0.95	2.68	1.11					
+LU097	Camellia_SSR_013					1.72	1.27	0.52	1.78	0.71					
+LU097	Camellia_SSR_016					2.33		0.97		1.01	1.68				
+LU098	Camellia_SSR_013			2.56	0.91	2.03			0.51						
+LU098	Camellia_SSR_016					1.23		1.05	1.76		1.95				
+LU099	Camellia_SSR_013				2.61	1.33			2.07						
+LU099	Camellia_SSR_016							1.93	1.94		2.12				
+LU100	Camellia_SSR_013			3.04	1.11	0.94			0.90						
+LU100	Camellia_SSR_016							2.11	2.17		1.72				
+LU101	Camellia_SSR_013			1.86		1.18			2.39	0.57					
+LU101	Camellia_SSR_016					0.75	3.13	0.59		1.54					
+LU102	Camellia_SSR_013			2.85		1.26		1.25	0.64						
+LU102	Camellia_SSR_016					3.28	0.97	0.95	0.80						
+LU103	Camellia_SSR_013			1.82		1.21		0.72	2.25						
+LU103	Camellia_SSR_016					2.16		3.02			0.83				
+LU104	Camellia_SSR_013			1.39	2.65			1.39		0.57					
+LU104	Camellia_SSR_016					1.11	1.10		3.79						
+LU105	Camellia_SSR_013				2.72		1.34	1.24	0.69						
+LU105	Camellia_SSR_016							3.49		0.96	0.94	0.62			
+LU106	Camellia_SSR_013					1.50	1.02	1.02	2.46						
+LU106	Camellia_SSR_016					3.25		1.04		1.71					
+LU107	Camellia_SSR_013			1.01		3.78		0.54	0.68						
+LU107	Camellia_SSR_016					0.88	1.04		1.09	2.04	0.95				
+LU108	Camellia_SSR_013			1.31	1.25	2.40		0.60	0.44						
+LU108	Camellia_SSR_016					2.41		1.47	2.12						
+LU109	Camellia_SSR_013			2.75		1.86		0.61	0.77						
+LU109	Camellia_SSR_016					1.24		0.99	2.29		1.48				
+LU110	Camellia_SSR_013			1.08		2.05		1.24	1.63						
+LU110	Camellia_SSR_016					1.22		3.10	0.62	1.07					
+LU111	Camellia_SSR_013			2.09	1.41				2.50						
+LU111	Camellia_SSR_016					1.81	1.23	1.03		1.09		0.84			
+LU112	Camellia_SSR_013					1.60		2.70	1.70						
+LU112	Camellia_SSR_016							1.39	3.16	0.83	0.62				
+LU113	Camellia_SSR_013			1.51		2.57		1.23	0.69						
+LU113	Camellia_SSR_016						0.99	3.29	1.03		0.69				
+LU114	Camellia_SSR_013				1.61	1.56	1.16	0.90	0.77						
+LU114	Camellia_SSR_016					1.22	1.09		3.69						
+LU115	Camellia_SSR_013				3.82	1.17		0.50		0.51					
+LU115	Camellia_SSR_016						1.01	2.10	1.63		1.26				
+LU116	Camellia_SSR_013			1.41	1.18	1.41		0.84		1.16					
+LU116	Camellia_SSR_016						0.91	3.18	0.97	0.94					
+LU117	Camellia_SSR_013			1.37		3.38			1.25						
+LU117	Camellia_SSR_016					1.30		2.92	1.14		0.64				
+LU118	Camellia_SSR_013				1.65	1.62		1.20	1.53						
+LU118	Camellia_SSR_016					2.50	1.00	0.87		0.70	0.93				
+LU119	Camellia_SSR_013				2.21			1.46	1.36	0.98					
+LU119	Camellia_SSR_016					2.23	1.26		0.75	0.88			0.88		
+LU120	Camellia_SSR_013			1.22	3.57				1.21						
+LU120	Camellia_SSR_016					3.30				0.90	0.85		0.96		
+LU121	Camellia_SSR_013				3.66			1.48	0.86						
+LU121	Camellia_SSR_016							4.13			0.88		0.99		
+LU122	Camellia_SSR_013					2.95		0.64	2.42						
+LU122	Camellia_SSR_016					2.40		0.98		1.80	0.81				
+LU123	Camellia_SSR_013				1.99	1.45			1.80	0.76					
+LU123	Camellia_SSR_016					1.45	1.03	3.52							
+LU125	Camellia_SSR_013				1.26	2.49		0.64	1.62						
+LU125	Camellia_SSR_016					1.08	2.25	2.05			0.62				
+LU126	Camellia_SSR_013				1.15	2.45		2.40							
+LU126	Camellia_SSR_016							1.03	2.19	2.01	0.78				
+LU128	Camellia_SSR_013			1.21		3.79		0.48	0.52						
+LU128	Camellia_SSR_016					2.67		1.81	0.93		0.59				
+LU129	Camellia_SSR_013			1.34		3.43			0.66	0.57					
+LU129	Camellia_SSR_016						2.17	0.92	2.91						
+LU132	Camellia_SSR_013					3.03		2.35	0.62						
+LU132	Camellia_SSR_016					1.13	1.98	0.96	1.08		0.86				
+LU133	Camellia_SSR_013					2.36		2.90	0.74						
+LU133	Camellia_SSR_016					1.32		1.99	1.88		0.81				
+LU134	Camellia_SSR_013					3.88		1.55	0.57						
+LU134	Camellia_SSR_016					2.95		2.33			0.71				
+LU135	Camellia_SSR_013				2.60			1.30	2.10						
+LU135	Camellia_SSR_016					2.44	0.90		1.97		0.69				
+LU136	Camellia_SSR_013				1.36			0.92	2.85	0.86					
+LU136	Camellia_SSR_016					1.36	1.13		1.10	1.00	1.41				
+LU137	Camellia_SSR_013			0.81		3.01			1.56	0.62					
+LU137	Camellia_SSR_016					2.37			1.89	1.02	0.72				
+LU138	Camellia_SSR_013				2.72	1.20	0.98			1.10					
+LU138	Camellia_SSR_016					1.22	2.34		1.11		1.32				
+LU140	Camellia_SSR_013					1.45			3.72	0.83					
+LU140	Camellia_SSR_016					3.82					0.98	1.20			
+LU141	Camellia_SSR_013							0.83	5.17						
+LU141	Camellia_SSR_016					3.00		1.11	1.18		0.71				
+FJ004	Camellia_SSR_013				3.39	1.20			0.55	0.86					
+FJ004	Camellia_SSR_016							3.50		0.89	0.84	0.78			
+FJ005	Camellia_SSR_013					1.32	1.21	0.98	2.49						
+FJ005	Camellia_SSR_016					1.19	2.09	0.95	0.80	0.98					
+FJ006	Camellia_SSR_013				1.46		0.95	3.07		0.52					
+FJ006	Camellia_SSR_016					2.53				1.22	1.20	1.05			
+FJ008	Camellia_SSR_013				3.76			1.50	0.73						
+FJ008	Camellia_SSR_016					0.80	2.44	2.76							
+FJ009	Camellia_SSR_013				2.78	2.04		1.18							
+FJ009	Camellia_SSR_016					1.29		1.94	1.99		0.78				
+FJ011	Camellia_SSR_013					3.64		1.64	0.72						
+FJ011	Camellia_SSR_016								3.19	1.18	1.63				
+FJ012	Camellia_SSR_013				2.74	1.15		0.89	1.23						
+FJ012	Camellia_SSR_016						0.85	1.24	1.00	1.80		1.11			
+FJ013	Camellia_SSR_013				2.41	0.58		1.69	1.33						
+FJ013	Camellia_SSR_016				1.00	1.06		2.18	1.77						
+FJ014	Camellia_SSR_013							3.74	1.21		1.05				
+FJ014	Camellia_SSR_016					3.04			0.88	0.99	1.08				
+FJ015	Camellia_SSR_013				1.72	0.70	1.15	0.94	1.50						
+FJ015	Camellia_SSR_016				1.50			1.36	1.95			1.19			
+FJ016	Camellia_SSR_013				2.81			2.55		0.64					
+FJ016	Camellia_SSR_016						1.08	1.89	1.01	2.01					
+FJ017	Camellia_SSR_013				2.89	1.25		1.86							
+FJ017	Camellia_SSR_016					0.99		0.98	3.23	0.80					
+FJ018	Camellia_SSR_013				3.17	2.83									
+FJ018	Camellia_SSR_016					1.23				0.76	4.01				
+FJ021	Camellia_SSR_013			0.69	1.97	1.54			1.80						
+FJ021	Camellia_SSR_016				1.18	1.26		1.89	0.86		0.80				
+FJ022	Camellia_SSR_013			0.73	1.81			2.61		0.85					
+FJ022	Camellia_SSR_016					1.17	2.33		0.99		1.51				
+FJ023	Camellia_SSR_013							5.24	0.76						
+FJ023	Camellia_SSR_016					1.29		1.99		0.99	1.73				
+FJ024	Camellia_SSR_013							4.99	1.01						
+FJ024	Camellia_SSR_016					1.43		1.91	1.10		1.55				
+FJ025	Camellia_SSR_013				3.63		1.16		0.58	0.64					
+FJ025	Camellia_SSR_016					1.14		2.20	2.05		0.62				
+FJ026	Camellia_SSR_013			0.86	3.22				1.92						
+FJ026	Camellia_SSR_016					1.27		1.30	0.94	1.19	1.31				
+FJ028	Camellia_SSR_013				3.41	1.34				1.24					
+FJ028	Camellia_SSR_016					1.31	1.25		2.90		0.54				
+FJ031	Camellia_SSR_013				3.63	1.01		1.36							
+FJ031	Camellia_SSR_016					1.54	1.18	0.66	1.10	0.80	0.71				
+FJ032	Camellia_SSR_013				1.13	3.79		1.08							
+FJ032	Camellia_SSR_016					1.37			1.52	2.25	0.87				
+FJ033	Camellia_SSR_013					4.29	1.05		0.66						
+FJ033	Camellia_SSR_016					1.18	1.06	0.99	1.17	0.95	0.66				
+FJ034	Camellia_SSR_013			0.71	1.84	0.57	1.80	1.07							
+FJ034	Camellia_SSR_016					1.03	1.29	1.15			2.53				
+FJ035	Camellia_SSR_013				1.91	3.24			0.38	0.47					
+FJ035	Camellia_SSR_016							2.33	1.80	1.02	0.85				
+FJ037	Camellia_SSR_013				1.62		1.51	1.05	0.83		1.00				
+FJ037	Camellia_SSR_016							2.06	3.08		0.87				
+FJ038	Camellia_SSR_013						3.36	1.70		0.94					
+FJ038	Camellia_SSR_016					1.21		2.91	1.14	0.73					
+FJ039	Camellia_SSR_013					3.52		0.92		0.63	0.93				
+FJ039	Camellia_SSR_016					1.13		2.02	1.95	0.90					
+FJ040	Camellia_SSR_013				1.79	1.40		1.65	1.16						
+FJ040	Camellia_SSR_016					1.27	0.63	1.20	1.18	1.22	0.50				
+MTS001	Camellia_SSR_013			3.06	1.70				1.24						
+MTS001	Camellia_SSR_016								2.35	1.16	1.95		0.54		
+MTS002	Camellia_SSR_013			3.33				0.99	1.68						
+MTS002	Camellia_SSR_016						2.15	1.22		0.86	1.76				
+MTS003	Camellia_SSR_013					4.88		1.12							
+MTS003	Camellia_SSR_016					1.36	1.27		1.31		1.02		1.05		
+MTS004	Camellia_SSR_013					2.59		2.35	1.06						
+MTS004	Camellia_SSR_016					1.29		4.05			0.66				
+MTS005	Camellia_SSR_013					5.23		0.77							
+MTS005	Camellia_SSR_016							1.43	1.28	2.16	1.13				
+MTS006	Camellia_SSR_013			0.81			1.45	2.89		0.85					
+MTS006	Camellia_SSR_016					1.91	1.00	2.16		0.93					
+MTS007	Camellia_SSR_013						0.92	1.23	3.85						
+MTS007	Camellia_SSR_016						3.26		1.01		1.73				
+MTS008	Camellia_SSR_013				2.24			1.41	2.35						
+MTS008	Camellia_SSR_016					1.32		1.26			1.76	0.65	1.01		
+MTS009	Camellia_SSR_013				2.31	0.52	1.72	0.90	0.55						
+MTS009	Camellia_SSR_016						1.79		1.01		2.17		1.03		
+MTS010	Camellia_SSR_013					3.83		0.82	1.34						
+MTS010	Camellia_SSR_016					1.96		0.78	1.91		1.35				
+MTS011	Camellia_SSR_013					1.42	1.38	1.70	0.78	0.72					
+MTS011	Camellia_SSR_016					1.07	1.20			1.12	1.61	1.00			
+MTS012	Camellia_SSR_013				4.00	1.08		0.41	0.51						
+MTS012	Camellia_SSR_016					1.00	1.12	0.95	0.89	1.04	1.00				
+MTS013	Camellia_SSR_013				2.19	1.45	1.38		0.98						
+MTS013	Camellia_SSR_016							3.20	1.45		1.35				
+MTS014	Camellia_SSR_013				1.95	1.72		1.59		0.74					
+MTS014	Camellia_SSR_016					2.78		1.39			0.77	1.05			
+MTS015	Camellia_SSR_013			1.54	1.38	1.18	1.90								
+MTS015	Camellia_SSR_016							1.06	2.45	2.49					
+MTS016	Camellia_SSR_013				2.72	1.95	0.81		0.52						
+MTS016	Camellia_SSR_016						0.98	1.19	0.96	2.12	0.75				
+JI001	Camellia_SSR_013				1.18	2.10	0.90	0.77	1.04						
+JI001	Camellia_SSR_016							0.86	2.60		1.49		1.05		
+JI002	Camellia_SSR_013			2.06		1.97		1.19		0.79					
+JI002	Camellia_SSR_016						3.23		1.22		1.55				
+JI003	Camellia_SSR_013			1.09		3.55		0.80	0.55						
+JI003	Camellia_SSR_016						1.09	1.21	2.98		0.72				
+JI004	Camellia_SSR_013			0.97		5.03									
+JI004	Camellia_SSR_016					1.02	0.92	2.09			0.86		1.11		
+JI006	Camellia_SSR_013			0.72	1.38	1.17	1.83	0.90							
+JI006	Camellia_SSR_016					1.22	1.29		1.03	1.82	0.64				
+JI008	Camellia_SSR_013					3.31			2.69						
+JI008	Camellia_SSR_016						1.15	3.51	0.65		0.69				
+JI009	Camellia_SSR_013			1.61		1.54	1.02		0.61	1.21					
+JI009	Camellia_SSR_016						3.20	1.29		0.81	0.70				
+JI010	Camellia_SSR_013					2.06		2.78	1.16						
+JI010	Camellia_SSR_016					1.79		2.47			0.77	0.98			
+JI011	Camellia_SSR_013					4.09	0.41		0.99	0.50					
+JI011	Camellia_SSR_016						2.02	2.00	1.24		0.74				
+JI012	Camellia_SSR_013			1.15	1.47		1.71	0.72		0.95					
+JI012	Camellia_SSR_016					1.08		3.19	1.01		0.72				
+JI013	Camellia_SSR_013			1.49		3.91			0.60						
+JI013	Camellia_SSR_016						1.15	2.39	1.32		1.15				
+JI014	Camellia_SSR_013					3.72		1.30		0.98					
+JI014	Camellia_SSR_016						1.39	1.21	2.45			0.95			
+JI015	Camellia_SSR_013			1.34		3.81		0.85							
+JI015	Camellia_SSR_016						1.83		1.28		1.93		0.97		
+JI016	Camellia_SSR_013			1.75		3.37			0.88						
+JI016	Camellia_SSR_016					1.23	0.97	2.40	0.51	0.90					
+JI017	Camellia_SSR_013				1.15	2.19		2.66							
+JI017	Camellia_SSR_016				1.00	1.34		0.83	1.21		1.61				
+JI018	Camellia_SSR_013			0.65			3.52	0.95	0.89						
+JI018	Camellia_SSR_016							1.51	1.63	2.09	0.77				
+JI019	Camellia_SSR_013			0.59	1.51	2.98		0.92							
+JI019	Camellia_SSR_016					2.30	0.81	1.13		0.93			0.83		
+JI020	Camellia_SSR_013					3.40	1.05	0.98	0.57						
+JI020	Camellia_SSR_016					1.17		1.21		1.79	1.82				
+JI021	Camellia_SSR_013				1.90	1.27			2.83						
+JI021	Camellia_SSR_016					0.80		0.95	1.00	1.03	1.23		0.99		
+JI022	Camellia_SSR_013				1.25	3.40		0.72	0.64						
+JI022	Camellia_SSR_016						1.25	1.40	1.20		1.22	0.93			
+JI024	Camellia_SSR_013							0.57	5.43						
+JI024	Camellia_SSR_016					1.37	1.29	1.13		1.18	1.04				
+JI025	Camellia_SSR_013					3.17	0.50	0.55	1.79						
+JI025	Camellia_SSR_016					1.35		0.64	3.05		0.96				
+JI026	Camellia_SSR_013			3.45			1.18		0.86	0.51					
+JI026	Camellia_SSR_016						1.21		2.16	1.10	1.53				
+JI027	Camellia_SSR_013			1.70		3.55			0.75						
+JI027	Camellia_SSR_016					0.95		0.99	2.24	1.16	0.66				
+JI028	Camellia_SSR_013			0.81		3.23	1.96								
+JI028	Camellia_SSR_016					0.94	0.96	1.23	1.06	0.85		0.96			
+JI029	Camellia_SSR_013					4.63			1.37						
+JI029	Camellia_SSR_016					1.66		1.07	1.21		2.06				
+JI031	Camellia_SSR_013			1.48	1.59	2.93									
+JI031	Camellia_SSR_016						1.18		2.16		1.87	0.79			
+JI032	Camellia_SSR_013						2.07	1.70	2.23						
+JI032	Camellia_SSR_016								1.83	1.97	1.17		1.04		
+JI036	Camellia_SSR_013				1.65	1.22	2.11	1.02							
+JI036	Camellia_SSR_016						3.03	2.97							
+JI037	Camellia_SSR_013					1.78	1.43	1.10	1.70						
+JI037	Camellia_SSR_016						1.08	1.10	2.06	0.89	0.86				
+JI038	Camellia_SSR_013					3.13		0.98	1.89						
+JI038	Camellia_SSR_016						2.26	0.94	1.95		0.85				
+JI039	Camellia_SSR_013			1.52		2.73		1.76							
+JI039	Camellia_SSR_016							3.91	0.98				1.11		
+JI040	Camellia_SSR_013				1.26	1.43		1.96	1.35						
+JI040	Camellia_SSR_016					1.17	1.69			3.14					
+JI041	Camellia_SSR_013				2.90		2.15	0.95							
+JI041	Camellia_SSR_016						3.11	0.92		0.98		0.99			
+JI042	Camellia_SSR_013					1.57	1.51	1.32	0.85	0.76					
+JI042	Camellia_SSR_016							2.37		0.96	1.85	0.83			
+JI043	Camellia_SSR_013					0.92	4.04	1.04							
+JI043	Camellia_SSR_016						1.24	1.36	0.94		0.77	1.70			
+JI044	Camellia_SSR_013				1.21	3.38		1.41							
+JI044	Camellia_SSR_016					1.25	1.03	1.27		0.97	0.82	0.67			
+JI045	Camellia_SSR_013					3.62		2.38							
+JI045	Camellia_SSR_016						2.35	1.15	0.84		0.75	0.90			
+JI046	Camellia_SSR_013				1.18	1.06	3.76								
+JI046	Camellia_SSR_016							3.35	0.73	1.04	0.89				
+JI047	Camellia_SSR_013				1.43	2.47		1.47	0.64						
+JI047	Camellia_SSR_016						1.07	2.03	2.24				0.66		
+JI048	Camellia_SSR_013					3.65	1.53		0.82						
+JI048	Camellia_SSR_016						3.59	0.94	0.74			0.73			
+JI049	Camellia_SSR_013				2.53	1.44	1.04	0.98							
+JI049	Camellia_SSR_016							3.20	2.00			0.81			
+JI050	Camellia_SSR_013				1.69		2.19		0.73	1.40					
+JI050	Camellia_SSR_016						2.17	2.10		0.87	0.86				
+JI051	Camellia_SSR_013				1.76		1.58	0.90	0.86	0.90					
+JI051	Camellia_SSR_016				1.08					1.62	1.92	1.37			
+JI052	Camellia_SSR_013			0.89		3.98	1.13								
+JI052	Camellia_SSR_016					1.14	0.95	2.14					1.77		
+JI053	Camellia_SSR_013					4.70		0.80	0.50						
+JI053	Camellia_SSR_016						0.98	1.21		2.77	1.03				
+JI054	Camellia_SSR_013			2.66		2.11		0.67		0.56					
+JI054	Camellia_SSR_016			1.06		1.19			1.05		2.70				
+JI055	Camellia_SSR_013			1.21	3.55		1.24								
+JI055	Camellia_SSR_016						0.78	1.19	1.09	1.96			0.97		
+JI056	Camellia_SSR_013					1.64	1.37	1.20	1.79						
+JI056	Camellia_SSR_016					0.76	2.40		0.96		1.89				
+JI057	Camellia_SSR_013						1.50	4.50							
+JI057	Camellia_SSR_016						1.48	1.04	2.48		0.62				0.37
+JI058	Camellia_SSR_013					3.85			2.15						
+JI058	Camellia_SSR_016						3.43				0.73	1.84			
+JI059	Camellia_SSR_013					3.12	1.48			1.39					
+JI059	Camellia_SSR_016				1.32		3.47		0.62		0.59				
+JI060	Camellia_SSR_013					2.62	1.04	1.03	0.65	0.66					
+JI060	Camellia_SSR_016						1.12	1.05		2.18	1.64				
+JI061	Camellia_SSR_013				2.31	2.28		1.40							
+JI061	Camellia_SSR_016					2.02	1.26	1.04		0.78	0.89				
+JI062	Camellia_SSR_013			1.34	2.11	1.86		0.69							
+JI062	Camellia_SSR_016							1.23	1.32	0.97	1.77		0.70		
+JI063	Camellia_SSR_013				3.65	2.35									
+JI063	Camellia_SSR_016					1.16		2.14		1.00		1.02	0.68		
+JI064	Camellia_SSR_013				0.69	3.16	1.35		0.80						
+JI064	Camellia_SSR_016						2.25	1.92	1.15				0.68		
+JI065	Camellia_SSR_013			0.82		3.72	1.45								
+JI065	Camellia_SSR_016					3.30	1.17			0.67	0.86				
+JI066	Camellia_SSR_013			0.82		1.40	2.40		1.38						
+JI066	Camellia_SSR_016						1.65	3.09					1.26		
+JI067	Camellia_SSR_013				2.23			1.43	1.07	1.26					
+JI067	Camellia_SSR_016						0.91	2.38			1.01	1.14	0.56		
+JI068	Camellia_SSR_013			0.63		2.82	1.27	1.28							
+JI068	Camellia_SSR_016					1.14		1.05		2.97	0.84				
+JI069	Camellia_SSR_013					2.48	2.27		1.25						
+JI069	Camellia_SSR_016							2.19	1.11	1.08	0.86	0.76			
+JI070	Camellia_SSR_013					0.89	4.32		0.79						
+JI070	Camellia_SSR_016							2.14	1.17	0.96	0.76	0.98			
+JI072	Camellia_SSR_013				1.68	1.44	1.13	1.75							
+JI072	Camellia_SSR_016					1.10	1.11	1.91	1.09				0.79		
+JI073	Camellia_SSR_013				1.54			3.05	1.41						
+JI073	Camellia_SSR_016					1.18		3.07	0.97		0.79				
+JI074	Camellia_SSR_013				1.50		1.14	2.04	1.31						
+JI074	Camellia_SSR_016						3.24		2.03		0.73				
+JI076	Camellia_SSR_013					1.40	2.23	1.05	0.78	0.55					
+JI076	Camellia_SSR_016							2.16	1.29	1.01	0.86	0.68			
+JI077	Camellia_SSR_013					1.29	1.24	1.00	2.47						
+JI077	Camellia_SSR_016							2.66			3.34				
+JI078	Camellia_SSR_013			1.39			1.12	2.10	0.81	0.59					
+JI078	Camellia_SSR_016					1.17	1.09	2.22			0.82	0.70			
+JI079	Camellia_SSR_013			1.60	1.40		1.79	0.75		0.45					
+JI079	Camellia_SSR_016					1.17	2.16	1.09		0.91	0.67				
+JI080	Camellia_SSR_013					3.15		2.41	0.45						
+JI080	Camellia_SSR_016					1.17	0.95	2.10	1.78						
+JI082	Camellia_SSR_013						1.78	3.11	1.11						
+JI082	Camellia_SSR_016					2.84		1.03	1.11				1.02		
+JI083	Camellia_SSR_013					4.77		0.54	0.69						
+JI083	Camellia_SSR_016					0.85		2.36	1.04	0.93	0.83				
+JI084	Camellia_SSR_013				1.29	1.18	2.94		0.59						
+JI084	Camellia_SSR_016					4.23	1.04			0.73					
+JI085	Camellia_SSR_013				1.80	1.19		1.70	1.32						
+JI085	Camellia_SSR_016					1.24	1.41	1.97	1.39						
+JI086	Camellia_SSR_013			1.29		1.49	1.04	0.72	1.46						
+JI086	Camellia_SSR_016							1.18		1.80	2.16	0.86			
+JI088	Camellia_SSR_013			1.19	1.20	1.45		0.76	1.40						
+JI088	Camellia_SSR_016					0.72		0.92		3.49	0.87				
+JI089	Camellia_SSR_013				1.92	1.20		1.29	0.81	0.78					
+JI089	Camellia_SSR_016					1.08	2.07		2.18			0.66			
+JI090	Camellia_SSR_013				1.68	2.83		0.90	0.59						
+JI090	Camellia_SSR_016						1.23	2.20	0.91		0.73		0.93		
+JI091	Camellia_SSR_013			3.18		1.63		1.19							
+JI091	Camellia_SSR_016					1.19		2.21			1.56		1.04		
+JI092	Camellia_SSR_013			3.73		2.27									
+JI092	Camellia_SSR_016					1.02	1.02	1.94	2.02						
+JI093	Camellia_SSR_013				1.62			0.95	1.05	2.39					
+JI093	Camellia_SSR_016					1.11	1.06	0.84	2.18		0.80				
+JI094	Camellia_SSR_013				1.69	0.94	2.35	1.02							
+JI094	Camellia_SSR_016			1.15					2.26		0.81	0.71	1.06		
+JI095	Camellia_SSR_013					1.37	1.66	2.97							
+JI095	Camellia_SSR_016							2.74		0.74	0.97	0.74	0.81		
+JI096	Camellia_SSR_013				1.27	3.84			0.89						
+JI096	Camellia_SSR_016					1.45	1.44	1.18			1.09	0.84			
+NL002	Camellia_SSR_013				0.62	2.70		1.90	0.79						
+NL002	Camellia_SSR_016						0.29		2.56	0.80	1.74		0.61		
+NL003	Camellia_SSR_013				1.73	2.54		1.04	0.69						
+NL003	Camellia_SSR_016						1.15		3.37		0.87		0.61		
+NL004	Camellia_SSR_013				2.14		3.86								
+NL004	Camellia_SSR_016							3.45		1.03	1.52				
+NL005	Camellia_SSR_013					1.85	1.44	1.31	0.85	0.56					
+NL005	Camellia_SSR_016						2.26	1.45	1.31	0.98					
+NL006	Camellia_SSR_013					5.18			0.82						
+NL006	Camellia_SSR_016						1.05		3.15	1.30	0.51				
+NL007	Camellia_SSR_013					2.16		3.16		0.68					
+NL007	Camellia_SSR_016						0.48		1.13		2.70	1.69			
+NL008	Camellia_SSR_013					3.84		1.21	0.95						
+NL008	Camellia_SSR_016							2.96	1.12				1.91		
+NL009	Camellia_SSR_013				2.83	0.69	1.09	1.39							
+NL009	Camellia_SSR_016					1.06	1.10	1.51	1.40	0.92					
+NL010	Camellia_SSR_013				0.52		1.47	3.09	0.92						
+NL010	Camellia_SSR_016						2.07	2.55	0.69		0.69				
+NL011	Camellia_SSR_013				0.58	1.63	1.41		1.62	0.76					
+NL011	Camellia_SSR_016					2.96			0.69		1.20		1.15		
+NL012	Camellia_SSR_013				3.35			1.94	0.72						
+NL012	Camellia_SSR_016				1.10	1.61			1.00	1.19	1.10				
+NL013	Camellia_SSR_013				2.23	0.84	1.45	1.48							
+NL013	Camellia_SSR_016														
+NL014	Camellia_SSR_013				1.86			0.79	2.52	0.83					
+NL014	Camellia_SSR_016					1.26	1.85		1.24		1.65				
+NL015	Camellia_SSR_013				3.50	0.94	0.97			0.59					
+NL015	Camellia_SSR_016							1.99	2.01			1.09	0.91		
+NL016	Camellia_SSR_013				1.51	1.31	1.14	1.01		1.03					
+NL016	Camellia_SSR_016					1.48	0.76	2.22			1.54				
+NL017	Camellia_SSR_013				1.21	2.10		1.07	0.70		0.92				
+NL017	Camellia_SSR_016					1.22	1.28	1.00	2.49						
+NL018	Camellia_SSR_013				4.11	0.88		0.39		0.61					
+NL018	Camellia_SSR_016						2.18	2.44	0.87		0.51				
+NL019	Camellia_SSR_013				1.51	1.98	1.03	0.90		0.58					
+NL019	Camellia_SSR_016							3.33	1.01		1.66				
+NL020	Camellia_SSR_013				2.69		1.04	0.88	1.39						
+NL020	Camellia_SSR_016						1.47	3.45			1.08				
+NL021	Camellia_SSR_013					1.52	2.30	1.37	0.81						
+NL021	Camellia_SSR_016					0.88	2.12	1.28	0.88		0.84				
+NL022	Camellia_SSR_013					5.23		0.77							
+NL022	Camellia_SSR_016							2.25	1.16		2.59				
+NL023	Camellia_SSR_013						4.41			1.59					
+NL023	Camellia_SSR_016			0.99			1.03		1.25	1.03	0.80	0.89			
+NL024	Camellia_SSR_013						1.33	3.30	1.37						
+NL024	Camellia_SSR_016					2.85	1.32				1.83				
+NL025	Camellia_SSR_013					2.70	2.09		1.21						
+NL025	Camellia_SSR_016				1.14		1.08	1.95	1.04		0.79				
+NL026	Camellia_SSR_013					2.60	2.38	1.01							
+NL026	Camellia_SSR_016					1.25	0.61		2.13		2.01				
+NL027	Camellia_SSR_013				3.78			0.46	0.79	0.98					
+NL027	Camellia_SSR_016						1.18			2.06	1.03		1.73		
+NL028	Camellia_SSR_013					2.10		1.41	1.10	1.39					
+NL028	Camellia_SSR_016					2.88				1.02		2.10			
+NL029	Camellia_SSR_013			0.84			1.68	2.66	0.82						
+NL029	Camellia_SSR_016						1.17	1.59	0.92		0.74		1.58		
+NL030	Camellia_SSR_013					4.12	1.07	0.81							
+NL030	Camellia_SSR_016					3.03	0.98				1.99				
+NL032	Camellia_SSR_013			0.88		1.73		1.15	1.38	0.86					
+NL032	Camellia_SSR_016					1.24	0.78	1.31		0.85	1.82				
+NL033	Camellia_SSR_013					1.85		2.69		1.46					
+NL033	Camellia_SSR_016					1.33	0.98	1.23	1.69			0.77			
+NL034	Camellia_SSR_013					3.67			1.51	0.81					
+NL034	Camellia_SSR_016						1.81	1.80			0.69	1.70			
+NL035	Camellia_SSR_013				1.77		0.89	2.05	0.60	0.69					
+NL035	Camellia_SSR_016			0.96	1.40	1.47	1.34				0.82				
+NL038	Camellia_SSR_013			1.26		1.64	1.43	1.67							
+NL038	Camellia_SSR_016						0.50	0.92		1.82	1.57		1.19		
+NL039	Camellia_SSR_013				1.23	2.16	0.89	0.68	0.59	0.45					
+NL039	Camellia_SSR_016						0.76	2.18			3.06				
+NL040	Camellia_SSR_013					2.05		1.19	1.86	0.90					
+NL040	Camellia_SSR_016						2.19	0.91			1.08	0.92	0.90		
+NL041	Camellia_SSR_013				2.82	2.17			1.01						
+NL041	Camellia_SSR_016			1.12		1.06	2.27			0.75	0.80				
+NL042	Camellia_SSR_013					2.93	1.25	0.81	1.01						
+NL042	Camellia_SSR_016				1.50	1.41		1.96			1.12				
+NL043	Camellia_SSR_013				3.06	1.29		1.04	0.61						
+NL043	Camellia_SSR_016				0.95		2.30		1.19		1.55				
+NL046	Camellia_SSR_013					3.40			2.60						
+NL046	Camellia_SSR_016				1.02			4.98							
+NL048	Camellia_SSR_013						3.16	2.84							
+NL048	Camellia_SSR_016					2.03					1.68	2.29			
+NL049	Camellia_SSR_013				1.36	1.36	1.14	1.01	0.56	0.56					
+NL049	Camellia_SSR_016						2.03	1.30	1.84		0.82				
+NL051	Camellia_SSR_013					5.56	0.44								
+NL051	Camellia_SSR_016								1.78	2.05	2.17				
+NL053	Camellia_SSR_013							6.00							
+NL053	Camellia_SSR_016					1.77		2.78		1.46					
+NL055	Camellia_SSR_013				1.65	2.80	0.85		0.70						
+NL055	Camellia_SSR_016					2.31	2.56	1.13							
+NL056	Camellia_SSR_013					3.91	2.09								
+NL056	Camellia_SSR_016			1.87						1.83	1.10	1.21			
+NL057	Camellia_SSR_013					3.60		2.40							
+NL057	Camellia_SSR_016						0.95	2.68	2.37						
+NL060	Camellia_SSR_013				2.52		1.83	1.65							
+NL060	Camellia_SSR_016			1.24				3.41	1.36						
+NL061	Camellia_SSR_013				1.45	2.19	1.03		0.74	0.58					
+NL061	Camellia_SSR_016					1.12	2.60		1.25				1.02		
+NL063	Camellia_SSR_013						4.81	1.19							
+NL063	Camellia_SSR_016							4.88				1.12			
+NL066	Camellia_SSR_013					2.83		3.17							
+NL066	Camellia_SSR_016						1.07	3.57	0.55		0.81				
+NL068	Camellia_SSR_013					4.09		1.91							
+NL068	Camellia_SSR_016								2.60		1.22	2.18			
+NL069	Camellia_SSR_013					1.44	1.63	1.84	1.09						
+NL069	Camellia_SSR_016					1.43		2.38	1.21		0.98				
+NL070	Camellia_SSR_013					3.71			2.29						
+NL070	Camellia_SSR_016					3.43		0.95			0.64	0.98			
+NL071	Camellia_SSR_013					2.68	1.80	1.52							
+NL071	Camellia_SSR_016							4.72				1.28			
+NL072	Camellia_SSR_013					4.45		1.55							
+NL072	Camellia_SSR_016							2.11		1.92	1.97				
+NL073	Camellia_SSR_013			1.08		2.00	1.19		0.82	0.91					
+NL073	Camellia_SSR_016					1.29	1.22	1.12			2.37				
+NL074	Camellia_SSR_013					4.30	1.70								
+NL074	Camellia_SSR_016							3.47		1.46	1.07				
+NL075	Camellia_SSR_013				1.67	1.33	1.11	1.12	0.76						
+NL075	Camellia_SSR_016							3.05			2.95				
+NL076	Camellia_SSR_013					3.47		1.40	1.13						
+NL076	Camellia_SSR_016					1.85				1.73	2.42				
+NL077	Camellia_SSR_013					5.56	0.44								
+NL077	Camellia_SSR_016							3.36		1.43		1.21			
+NL078	Camellia_SSR_013					3.21	1.53	1.26							
+NL078	Camellia_SSR_016							3.13	2.87						
+NL079	Camellia_SSR_013					1.41	1.04	2.07	1.48						
+NL079	Camellia_SSR_016				0.86	1.28		2.04	0.98		0.84				
+NL080	Camellia_SSR_013				4.39					1.61					
+NL080	Camellia_SSR_016				1.03	1.05		3.11	0.81						
+LF001	Camellia_SSR_013			0.65		1.74	1.46		2.15						
+LF001	Camellia_SSR_016						3.25			1.02	1.72				
+LF002	Camellia_SSR_013		2.41						3.59						
+LF002	Camellia_SSR_016						4.04	1.11	0.85						
+LF003	Camellia_SSR_013		2.81			0.88		1.27	1.03						
+LF003	Camellia_SSR_016						2.08	2.10	1.05		0.76				
+LF004	Camellia_SSR_013			1.37				1.93	1.55	1.16					
+LF004	Camellia_SSR_016					1.51	2.66				1.83				
+LF005	Camellia_SSR_013					1.44	1.54		1.67	1.36					
+LF005	Camellia_SSR_016							0.94	1.29	0.94	0.78		2.05		
+LF006	Camellia_SSR_013						1.50	2.11	2.40						
+LF006	Camellia_SSR_016					1.00	3.44				1.56				
+LF007	Camellia_SSR_013					1.59	1.38		3.03						
+LF007	Camellia_SSR_016						1.21	2.12	1.73	0.93					
+LF008	Camellia_SSR_013			0.69			1.90	1.89	1.51						
+LF008	Camellia_SSR_016						3.20		1.96		0.83				
+LF010	Camellia_SSR_013		2.62				0.48		1.93	0.97					
+LF010	Camellia_SSR_016					1.35				1.33	2.24		1.08		
+LF011	Camellia_SSR_013				2.10	1.68	2.22								
+LF011	Camellia_SSR_016					0.58	2.83		0.76	0.85	0.98				
+LF012	Camellia_SSR_013		2.65			0.84		1.03	1.48						
+LF012	Camellia_SSR_016					2.29					2.34		1.37		
+LF013	Camellia_SSR_013				3.30		0.84	1.86							
+LF013	Camellia_SSR_016					1.87	1.26	1.12	1.16		0.59				
+LF014	Camellia_SSR_013			0.66			1.37	3.97							
+LF014	Camellia_SSR_016					2.18		1.52	2.30						
+LF015	Camellia_SSR_013				1.78		1.93	2.29							
+LF015	Camellia_SSR_016					1.78	2.12	1.04	1.05						
+LF016	Camellia_SSR_013					1.53		2.20	2.27						
+LF016	Camellia_SSR_016						1.31	1.23	2.37		1.09				
+LF017	Camellia_SSR_013				1.45		1.00	2.00	1.55						
+LF017	Camellia_SSR_016				0.98		2.01	1.15	1.11			0.75			
+LF018	Camellia_SSR_013					1.65	1.02	1.10		1.12	1.12				
+LF018	Camellia_SSR_016					0.74	2.00	1.50	1.03		0.73				
+LF019	Camellia_SSR_013		2.05		1.58			1.57		0.79					
+LF019	Camellia_SSR_016						3.21		0.88	1.01	0.90				
+LF021	Camellia_SSR_013				1.91		1.44	1.62	1.02						
+LF021	Camellia_SSR_016						1.52		3.24		0.48	0.76			
+LF022	Camellia_SSR_013		2.39			2.66		0.35		0.60					
+LF022	Camellia_SSR_016						1.41	0.93		1.12	2.53				
+LF024	Camellia_SSR_013					3.38	0.40		2.22						
+LF024	Camellia_SSR_016			1.11			2.13		0.76	2.00					
+LF025	Camellia_SSR_013		2.92			2.16				0.92					
+LF025	Camellia_SSR_016					1.20		1.14		1.96	1.70				
+LF026	Camellia_SSR_013					3.97	1.02	1.01							
+LF026	Camellia_SSR_016					1.90	1.20		1.94		0.97				
+LF027	Camellia_SSR_013				2.74		0.96	0.93	1.37						
+LF027	Camellia_SSR_016					1.31			2.22		2.47				
+LF028	Camellia_SSR_013		2.06			1.21		1.30	0.79	0.65					
+LF028	Camellia_SSR_016					2.62			0.72	1.19	1.47				
+LF029	Camellia_SSR_013					1.59		1.39		3.03					
+LF029	Camellia_SSR_016					1.38	1.44	0.76	2.43						
+LF030	Camellia_SSR_013				2.01	0.88		2.07	1.04						
+LF030	Camellia_SSR_016						2.58		1.84	1.09	0.50				

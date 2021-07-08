@@ -1,1 +1,689 @@
-Sample	target
+Sample	target	1	2	3	4	5	6	7	8	9	10	11	12	13	14
+LU001	Camellia_SSR_013					4			2						
+LU001	Camellia_SSR_016					2		1	2		1				
+LU002	Camellia_SSR_013					5		1							
+LU002	Camellia_SSR_016					2		1	2	1					
+LU003	Camellia_SSR_013				2	1		1	2						
+LU003	Camellia_SSR_016							1	4		1				
+LU004	Camellia_SSR_013				1	3			2						
+LU004	Camellia_SSR_016							2	2		2				
+LU005	Camellia_SSR_013				1	4			1						
+LU005	Camellia_SSR_016					1		3	2						
+LU006	Camellia_SSR_013				1	3		1	1						
+LU006	Camellia_SSR_016							3	2		1				
+LU007	Camellia_SSR_013					4		2							
+LU007	Camellia_SSR_016					1	1	1	1	2					
+LU008	Camellia_SSR_013				1	2		1	2						
+LU008	Camellia_SSR_016					2		2	1		1				
+LU009	Camellia_SSR_013			4					1	1					
+LU009	Camellia_SSR_016					1		1	3		1				
+LU010	Camellia_SSR_013			3		1		1	1						
+LU010	Camellia_SSR_016							2			4				
+LU011	Camellia_SSR_013					4		1	1						
+LU011	Camellia_SSR_016					2		1	1		2				
+LU012	Camellia_SSR_013			1		2		1	1	1					
+LU012	Camellia_SSR_016					1		1	2		2				
+LU013	Camellia_SSR_013			2	1				2	1					
+LU013	Camellia_SSR_016							2	3		1				
+LU014	Camellia_SSR_013			2	1	1		1	1						
+LU014	Camellia_SSR_016						3	1		1	1				
+LU015	Camellia_SSR_013				1	2			3						
+LU015	Camellia_SSR_016					2	1	1	1	1					
+LU016	Camellia_SSR_013			2		1	1	1	1						
+LU016	Camellia_SSR_016					2		2	1	1					
+LU017	Camellia_SSR_013			1		1			4						
+LU017	Camellia_SSR_016					1	1	2	1	1					
+LU018	Camellia_SSR_013				3			1	1	1					
+LU018	Camellia_SSR_016					2		2	1		1				
+LU019	Camellia_SSR_013			2	1	2			1						
+LU019	Camellia_SSR_016					2	1	1			2				
+LU023	Camellia_SSR_013				1	2		1	1	1					
+LU023	Camellia_SSR_016					1		2	1		2				
+LU025	Camellia_SSR_013				3	1		1	1						
+LU025	Camellia_SSR_016						3	1			2				
+LU026	Camellia_SSR_013					2		4							
+LU026	Camellia_SSR_016					1		3			2				
+LU027	Camellia_SSR_013				2	3			1						
+LU027	Camellia_SSR_016					2	1	3							
+LU028	Camellia_SSR_013			2	1			1	1	1					
+LU028	Camellia_SSR_016						1		4		1				
+LU029	Camellia_SSR_013			2	1				2	1					
+LU029	Camellia_SSR_016							2	3		1				
+LU030	Camellia_SSR_013				3	1		1	1						
+LU030	Camellia_SSR_016					2	2	1	1						
+LU032	Camellia_SSR_013				1	1	1	1	2						
+LU032	Camellia_SSR_016				1	1		3	1						
+LU033	Camellia_SSR_013				1	1		2	1	1					
+LU033	Camellia_SSR_016					1	1	2		1	1				
+LU035	Camellia_SSR_013					2	1	1	2						
+LU035	Camellia_SSR_016					1	1	1	2	1					
+LU036	Camellia_SSR_013					3	1	2							
+LU036	Camellia_SSR_016					1	1	1	3						
+LU037	Camellia_SSR_013					2	1	2	1						
+LU037	Camellia_SSR_016					1		2	1		2				
+LU038	Camellia_SSR_013					3		1	2						
+LU038	Camellia_SSR_016							2	1		3				
+LU039	Camellia_SSR_013			1		4			1						
+LU039	Camellia_SSR_016							3	2		1				
+LU040	Camellia_SSR_013				3	1		1	1						
+LU040	Camellia_SSR_016					1	2	1	1	1					
+LU041	Camellia_SSR_013				1	2	1		1	1					
+LU041	Camellia_SSR_016								1	1	4				
+LU042	Camellia_SSR_013				1	3		1	1						
+LU042	Camellia_SSR_016						2	1	1	1	1				
+LU043	Camellia_SSR_013				1	4	1								
+LU043	Camellia_SSR_016					1	1	1	1	2					
+LU044	Camellia_SSR_013				2	2		1	1						
+LU044	Camellia_SSR_016					2	1	1	1		1				
+LU045	Camellia_SSR_013			1		3			2						
+LU045	Camellia_SSR_016					1	1	2	1	1					
+LU046	Camellia_SSR_013					4		2							
+LU046	Camellia_SSR_016						2	2	1	1					
+LU047	Camellia_SSR_013				1	2		1	2						
+LU047	Camellia_SSR_016				1	1		1	2	1					
+LU048	Camellia_SSR_013					3		2	1						
+LU048	Camellia_SSR_016					2		2		1	1				
+LU049	Camellia_SSR_013			1	4				1						
+LU049	Camellia_SSR_016					1	1	2			2				
+LU051	Camellia_SSR_013			1	1	1		1	1	1					
+LU051	Camellia_SSR_016							2	2	1	1				
+LU052	Camellia_SSR_013				1	3			2						
+LU052	Camellia_SSR_016					2		1	1	1	1				
+LU053	Camellia_SSR_013				1	2		1	1	1					
+LU053	Camellia_SSR_016					1		4			1				
+LU054	Camellia_SSR_013			2		1	1	1	1						
+LU054	Camellia_SSR_016					1	1	1	2		1				
+LU055	Camellia_SSR_013				1	3		1	1						
+LU055	Camellia_SSR_016					1	1	3	1						
+LU056	Camellia_SSR_013					4		1	1						
+LU056	Camellia_SSR_016					2		1	3						
+LU057	Camellia_SSR_013				1	3		1	1						
+LU057	Camellia_SSR_016					1		3	2						
+LU058	Camellia_SSR_013					5			1						
+LU058	Camellia_SSR_016					1		4			1				
+LU059	Camellia_SSR_013					5		1							
+LU059	Camellia_SSR_016						1	2	3						
+LU060	Camellia_SSR_013					5			1						
+LU060	Camellia_SSR_016					2	1	2	1						
+LU061	Camellia_SSR_013					6									
+LU061	Camellia_SSR_016					2		3	1						
+LU063	Camellia_SSR_013					1		1	3	1					
+LU063	Camellia_SSR_016					2		2	2						
+LU064	Camellia_SSR_013					1	1	2	1	1					
+LU064	Camellia_SSR_016					2	1	1		2					
+LU065	Camellia_SSR_013				2	1		1	2						
+LU065	Camellia_SSR_016					1		2			3				
+LU066	Camellia_SSR_013					2		2	1	1					
+LU066	Camellia_SSR_016					1		2	1		2				
+LU067	Camellia_SSR_013					4		1	1						
+LU067	Camellia_SSR_016							2	1		3				
+LU069	Camellia_SSR_013				2	1		1	1	1					
+LU069	Camellia_SSR_016					3		1	1		1				
+LU070	Camellia_SSR_013			1		3		1	1						
+LU070	Camellia_SSR_016					1	1		3		1				
+LU071	Camellia_SSR_013				2	1	1	1	1						
+LU071	Camellia_SSR_016						2		3	1					
+LU072	Camellia_SSR_013				3	1			2						
+LU072	Camellia_SSR_016					1	3	2							
+LU073	Camellia_SSR_013							1	5						
+LU073	Camellia_SSR_016					1			4	1					
+LU074	Camellia_SSR_013				1	3			2						
+LU074	Camellia_SSR_016					4		2							
+LU076	Camellia_SSR_013					1		3	2						
+LU076	Camellia_SSR_016					1	1	2		1	1				
+LU078	Camellia_SSR_013			2		2	1		1						
+LU078	Camellia_SSR_016					1		2	2		1				
+LU079	Camellia_SSR_013			1	1	1			2	1					
+LU079	Camellia_SSR_016					3		1		1	1				
+LU080	Camellia_SSR_013					2	1		2	1					
+LU080	Camellia_SSR_016					4		1			1				
+LU083	Camellia_SSR_013					3		1	2						
+LU083	Camellia_SSR_016					2		1	2		1				
+LU084	Camellia_SSR_013					1		4	1						
+LU084	Camellia_SSR_016					2		2			2				
+LU085	Camellia_SSR_013					1		3	1	1					
+LU085	Camellia_SSR_016						1	2	1		2				
+LU086	Camellia_SSR_013			2		2		1	1						
+LU086	Camellia_SSR_016					1		1	3	1					
+LU087	Camellia_SSR_013					2	1		3						
+LU087	Camellia_SSR_016					2		3	1						
+LU088	Camellia_SSR_013			1		3			1	1					
+LU088	Camellia_SSR_016						1	5							
+LU089	Camellia_SSR_013			1	1			1	2	1					
+LU089	Camellia_SSR_016					1		3	2						
+LU090	Camellia_SSR_013			2	1	1		1	1						
+LU090	Camellia_SSR_016					1		2	1	1	1				
+LU091	Camellia_SSR_013			1	3	1		1							
+LU091	Camellia_SSR_016					4			1		1				
+LU092	Camellia_SSR_013				2	2		1	1						
+LU092	Camellia_SSR_016					2		1	2	1					
+LU093	Camellia_SSR_013			4				1	1						
+LU093	Camellia_SSR_016					1	1	1	1	2					
+LU094	Camellia_SSR_013					2		2	2						
+LU094	Camellia_SSR_016					1		1	3	1					
+LU095	Camellia_SSR_013					3		1	1	1					
+LU095	Camellia_SSR_016						1	2	1		2				
+LU096	Camellia_SSR_013				2		1	2	1						
+LU096	Camellia_SSR_016					1		1	3	1					
+LU097	Camellia_SSR_013					1	1	1	2	1					
+LU097	Camellia_SSR_016					2		1		1	2				
+LU098	Camellia_SSR_013			2	1	2			1						
+LU098	Camellia_SSR_016					1		1	2		2				
+LU099	Camellia_SSR_013				3	1			2						
+LU099	Camellia_SSR_016							2	2		2				
+LU100	Camellia_SSR_013			3	1	1			1						
+LU100	Camellia_SSR_016							2	2		2				
+LU101	Camellia_SSR_013			2		1			2	1					
+LU101	Camellia_SSR_016					1	3	1		1					
+LU102	Camellia_SSR_013			3		1		1	1						
+LU102	Camellia_SSR_016					3	1	1	1						
+LU103	Camellia_SSR_013			2		1		1	2						
+LU103	Camellia_SSR_016					2		3			1				
+LU104	Camellia_SSR_013			1	3			1		1					
+LU104	Camellia_SSR_016					1	1		4						
+LU105	Camellia_SSR_013				3		1	1	1						
+LU105	Camellia_SSR_016							3		1	1	1			
+LU106	Camellia_SSR_013					2	1	1	2						
+LU106	Camellia_SSR_016					3		1		2					
+LU107	Camellia_SSR_013			1		3		1	1						
+LU107	Camellia_SSR_016					1	1		1	2	1				
+LU108	Camellia_SSR_013			1	1	2		1	1						
+LU108	Camellia_SSR_016					2		2	2						
+LU109	Camellia_SSR_013			2		2		1	1						
+LU109	Camellia_SSR_016					1		1	2		2				
+LU110	Camellia_SSR_013			1		2		1	2						
+LU110	Camellia_SSR_016					1		3	1	1					
+LU111	Camellia_SSR_013			2	2				2						
+LU111	Camellia_SSR_016					2	1	1		1		1			
+LU112	Camellia_SSR_013					1		3	2						
+LU112	Camellia_SSR_016							1	3	1	1				
+LU113	Camellia_SSR_013			1		3		1	1						
+LU113	Camellia_SSR_016						1	3	1		1				
+LU114	Camellia_SSR_013				2	1	1	1	1						
+LU114	Camellia_SSR_016					1	1		4						
+LU115	Camellia_SSR_013				3	1		1		1					
+LU115	Camellia_SSR_016						1	2	2		1				
+LU116	Camellia_SSR_013			2	1	1		1		1					
+LU116	Camellia_SSR_016						1	3	1	1					
+LU117	Camellia_SSR_013			2		3			1						
+LU117	Camellia_SSR_016					1		3	1		1				
+LU118	Camellia_SSR_013				2	2		1	1						
+LU118	Camellia_SSR_016					2	1	1		1	1				
+LU119	Camellia_SSR_013				2			2	1	1					
+LU119	Camellia_SSR_016					2	1		1	1			1		
+LU120	Camellia_SSR_013			1	4				1						
+LU120	Camellia_SSR_016					3				1	1		1		
+LU121	Camellia_SSR_013				4			1	1						
+LU121	Camellia_SSR_016							4			1		1		
+LU122	Camellia_SSR_013					3		1	2						
+LU122	Camellia_SSR_016					2		1		2	1				
+LU123	Camellia_SSR_013				2	1			2	1					
+LU123	Camellia_SSR_016					1	1	4							
+LU125	Camellia_SSR_013				1	2		1	2						
+LU125	Camellia_SSR_016					1	2	2			1				
+LU126	Camellia_SSR_013				1	3		2							
+LU126	Camellia_SSR_016							1	2	2	1				
+LU128	Camellia_SSR_013			1		3		1	1						
+LU128	Camellia_SSR_016					2		2	1		1				
+LU129	Camellia_SSR_013			1		3			1	1					
+LU129	Camellia_SSR_016						2	1	3						
+LU132	Camellia_SSR_013					3		2	1						
+LU132	Camellia_SSR_016					1	2	1	1		1				
+LU133	Camellia_SSR_013					2		3	1						
+LU133	Camellia_SSR_016					1		2	2		1				
+LU134	Camellia_SSR_013					4		1	1						
+LU134	Camellia_SSR_016					3		2			1				
+LU135	Camellia_SSR_013				3			1	2						
+LU135	Camellia_SSR_016					2	1		2		1				
+LU136	Camellia_SSR_013				1			1	3	1					
+LU136	Camellia_SSR_016					1	1		1	1	2				
+LU137	Camellia_SSR_013			1		3			1	1					
+LU137	Camellia_SSR_016					2			2	1	1				
+LU138	Camellia_SSR_013				3	1	1			1					
+LU138	Camellia_SSR_016					1	2		1		2				
+LU140	Camellia_SSR_013					1			4	1					
+LU140	Camellia_SSR_016					4					1	1			
+LU141	Camellia_SSR_013							1	5						
+LU141	Camellia_SSR_016					3		1	1		1				
+FJ004	Camellia_SSR_013				3	1			1	1					
+FJ004	Camellia_SSR_016							3		1	1	1			
+FJ005	Camellia_SSR_013					2	1	1	2						
+FJ005	Camellia_SSR_016					1	2	1	1	1					
+FJ006	Camellia_SSR_013				1		1	3		1					
+FJ006	Camellia_SSR_016					3				1	1	1			
+FJ008	Camellia_SSR_013				4			1	1						
+FJ008	Camellia_SSR_016					1	2	3							
+FJ009	Camellia_SSR_013				3	2		1							
+FJ009	Camellia_SSR_016					1		2	2		1				
+FJ011	Camellia_SSR_013					4		1	1						
+FJ011	Camellia_SSR_016								3	1	2				
+FJ012	Camellia_SSR_013				3	1		1	1						
+FJ012	Camellia_SSR_016						1	1	1	2		1			
+FJ013	Camellia_SSR_013				2	1		2	1						
+FJ013	Camellia_SSR_016				1	1		2	2						
+FJ014	Camellia_SSR_013							4	1		1				
+FJ014	Camellia_SSR_016					3			1	1	1				
+FJ015	Camellia_SSR_013				2	1	1	1	1						
+FJ015	Camellia_SSR_016				2			1	2			1			
+FJ016	Camellia_SSR_013				3			2		1					
+FJ016	Camellia_SSR_016						1	2	1	2					
+FJ017	Camellia_SSR_013				3	1		2							
+FJ017	Camellia_SSR_016					1		1	3	1					
+FJ018	Camellia_SSR_013				3	3									
+FJ018	Camellia_SSR_016					1				1	4				
+FJ021	Camellia_SSR_013			1	2	1			2						
+FJ021	Camellia_SSR_016				1	1		2	1		1				
+FJ022	Camellia_SSR_013			1	2			2		1					
+FJ022	Camellia_SSR_016					1	2		1		2				
+FJ023	Camellia_SSR_013							5	1						
+FJ023	Camellia_SSR_016					1		2		1	2				
+FJ024	Camellia_SSR_013							5	1						
+FJ024	Camellia_SSR_016					1		2	1		2				
+FJ025	Camellia_SSR_013				3		1		1	1					
+FJ025	Camellia_SSR_016					1		2	2		1				
+FJ026	Camellia_SSR_013			1	3				2						
+FJ026	Camellia_SSR_016					1		1	1	1	2				
+FJ028	Camellia_SSR_013				3	2				1					
+FJ028	Camellia_SSR_016					1	1		3		1				
+FJ031	Camellia_SSR_013				4	1		1							
+FJ031	Camellia_SSR_016					1	1	1	1	1	1				
+FJ032	Camellia_SSR_013				1	4		1							
+FJ032	Camellia_SSR_016					1			2	2	1				
+FJ033	Camellia_SSR_013					4	1		1						
+FJ033	Camellia_SSR_016					1	1	1	1	1	1				
+FJ034	Camellia_SSR_013			1	2	1	1	1							
+FJ034	Camellia_SSR_016					1	1	1			3				
+FJ035	Camellia_SSR_013				1	3			1	1					
+FJ035	Camellia_SSR_016							2	2	1	1				
+FJ037	Camellia_SSR_013				2		1	1	1		1				
+FJ037	Camellia_SSR_016							2	3		1				
+FJ038	Camellia_SSR_013						3	2		1					
+FJ038	Camellia_SSR_016					1		3	1	1					
+FJ039	Camellia_SSR_013					3		1		1	1				
+FJ039	Camellia_SSR_016					1		2	2	1					
+FJ040	Camellia_SSR_013				2	1		2	1						
+FJ040	Camellia_SSR_016					1	1	1	1	1	1				
+MTS001	Camellia_SSR_013			3	2				1						
+MTS001	Camellia_SSR_016								2	1	2		1		
+MTS002	Camellia_SSR_013			3				1	2						
+MTS002	Camellia_SSR_016						2	1		1	2				
+MTS003	Camellia_SSR_013					5		1							
+MTS003	Camellia_SSR_016					2	1		1		1		1		
+MTS004	Camellia_SSR_013					3		2	1						
+MTS004	Camellia_SSR_016					1		4			1				
+MTS005	Camellia_SSR_013					5		1							
+MTS005	Camellia_SSR_016							2	1	2	1				
+MTS006	Camellia_SSR_013			1			1	3		1					
+MTS006	Camellia_SSR_016					2	1	2		1					
+MTS007	Camellia_SSR_013						1	1	4						
+MTS007	Camellia_SSR_016						3		1		2				
+MTS008	Camellia_SSR_013				2			2	2						
+MTS008	Camellia_SSR_016					1		1			2	1	1		
+MTS009	Camellia_SSR_013				2	1	1	1	1						
+MTS009	Camellia_SSR_016						2		1		2		1		
+MTS010	Camellia_SSR_013					4		1	1						
+MTS010	Camellia_SSR_016					2		1	2		1				
+MTS011	Camellia_SSR_013					1	1	2	1	1					
+MTS011	Camellia_SSR_016					1	1			1	2	1			
+MTS012	Camellia_SSR_013				3	1		1	1						
+MTS012	Camellia_SSR_016					1	1	1	1	1	1				
+MTS013	Camellia_SSR_013				2	2	1		1						
+MTS013	Camellia_SSR_016							3	2		1				
+MTS014	Camellia_SSR_013				2	2		1		1					
+MTS014	Camellia_SSR_016					3		1			1	1			
+MTS015	Camellia_SSR_013			2	1	1	2								
+MTS015	Camellia_SSR_016							1	2	3					
+MTS016	Camellia_SSR_013				2	2	1		1						
+MTS016	Camellia_SSR_016						1	1	1	2	1				
+JI001	Camellia_SSR_013				1	2	1	1	1						
+JI001	Camellia_SSR_016							1	3		1		1		
+JI002	Camellia_SSR_013			2		2		1		1					
+JI002	Camellia_SSR_016						3		1		2				
+JI003	Camellia_SSR_013			1		3		1	1						
+JI003	Camellia_SSR_016						1	1	3		1				
+JI004	Camellia_SSR_013			1		5									
+JI004	Camellia_SSR_016					1	1	2			1		1		
+JI006	Camellia_SSR_013			1	1	1	2	1							
+JI006	Camellia_SSR_016					1	1		1	2	1				
+JI008	Camellia_SSR_013					3			3						
+JI008	Camellia_SSR_016						1	3	1		1				
+JI009	Camellia_SSR_013			2		1	1		1	1					
+JI009	Camellia_SSR_016						3	1		1	1				
+JI010	Camellia_SSR_013					2		3	1						
+JI010	Camellia_SSR_016					2		2			1	1			
+JI011	Camellia_SSR_013					3	1		1	1					
+JI011	Camellia_SSR_016						2	2	1		1				
+JI012	Camellia_SSR_013			1	1		2	1		1					
+JI012	Camellia_SSR_016					1		3	1		1				
+JI013	Camellia_SSR_013			1		4			1						
+JI013	Camellia_SSR_016						1	2	2		1				
+JI014	Camellia_SSR_013					4		1		1					
+JI014	Camellia_SSR_016						2	1	2			1			
+JI015	Camellia_SSR_013			1		4		1							
+JI015	Camellia_SSR_016						2		1		2		1		
+JI016	Camellia_SSR_013			2		3			1						
+JI016	Camellia_SSR_016					1	1	2	1	1					
+JI017	Camellia_SSR_013				1	2		3							
+JI017	Camellia_SSR_016				1	1		1	1		2				
+JI018	Camellia_SSR_013			1			3	1	1						
+JI018	Camellia_SSR_016							1	2	2	1				
+JI019	Camellia_SSR_013			1	1	3		1							
+JI019	Camellia_SSR_016					2	1	1		1			1		
+JI020	Camellia_SSR_013					3	1	1	1						
+JI020	Camellia_SSR_016					1		1		2	2				
+JI021	Camellia_SSR_013				2	1			3						
+JI021	Camellia_SSR_016					1		1	1	1	1		1		
+JI022	Camellia_SSR_013				1	3		1	1						
+JI022	Camellia_SSR_016						1	2	1		1	1			
+JI024	Camellia_SSR_013							1	5						
+JI024	Camellia_SSR_016					2	1	1		1	1				
+JI025	Camellia_SSR_013					3	1	1	1						
+JI025	Camellia_SSR_016					1		1	3		1				
+JI026	Camellia_SSR_013			3			1		1	1					
+JI026	Camellia_SSR_016						1		2	1	2				
+JI027	Camellia_SSR_013			1		4			1						
+JI027	Camellia_SSR_016					1		1	2	1	1				
+JI028	Camellia_SSR_013			1		3	2								
+JI028	Camellia_SSR_016					1	1	1	1	1		1			
+JI029	Camellia_SSR_013					5			1						
+JI029	Camellia_SSR_016					2		1	1		2				
+JI031	Camellia_SSR_013			1	2	3									
+JI031	Camellia_SSR_016						1		2		2	1			
+JI032	Camellia_SSR_013						2	2	2						
+JI032	Camellia_SSR_016								2	2	1		1		
+JI036	Camellia_SSR_013				2	1	2	1							
+JI036	Camellia_SSR_016						3	3							
+JI037	Camellia_SSR_013					2	1	1	2						
+JI037	Camellia_SSR_016						1	1	2	1	1				
+JI038	Camellia_SSR_013					3		1	2						
+JI038	Camellia_SSR_016						2	1	2		1				
+JI039	Camellia_SSR_013			1		3		2							
+JI039	Camellia_SSR_016							4	1				1		
+JI040	Camellia_SSR_013				1	2		2	1						
+JI040	Camellia_SSR_016					1	2			3					
+JI041	Camellia_SSR_013				3		2	1							
+JI041	Camellia_SSR_016						3	1		1		1			
+JI042	Camellia_SSR_013					2	1	1	1	1					
+JI042	Camellia_SSR_016							2		1	2	1			
+JI043	Camellia_SSR_013					1	4	1							
+JI043	Camellia_SSR_016						1	1	1		1	2			
+JI044	Camellia_SSR_013				1	3		2							
+JI044	Camellia_SSR_016					1	1	1		1	1	1			
+JI045	Camellia_SSR_013					4		2							
+JI045	Camellia_SSR_016						2	1	1		1	1			
+JI046	Camellia_SSR_013				1	1	4								
+JI046	Camellia_SSR_016							3	1	1	1				
+JI047	Camellia_SSR_013				1	2		2	1						
+JI047	Camellia_SSR_016						1	2	2				1		
+JI048	Camellia_SSR_013					4	1		1						
+JI048	Camellia_SSR_016						3	1	1			1			
+JI049	Camellia_SSR_013				3	1	1	1							
+JI049	Camellia_SSR_016							3	2			1			
+JI050	Camellia_SSR_013				2		2		1	1					
+JI050	Camellia_SSR_016						2	2		1	1				
+JI051	Camellia_SSR_013				2		1	1	1	1					
+JI051	Camellia_SSR_016				1					2	2	1			
+JI052	Camellia_SSR_013			1		4	1								
+JI052	Camellia_SSR_016					1	1	2					2		
+JI053	Camellia_SSR_013					4		1	1						
+JI053	Camellia_SSR_016						1	1		3	1				
+JI054	Camellia_SSR_013			2		2		1		1					
+JI054	Camellia_SSR_016			1		1			1		3				
+JI055	Camellia_SSR_013			1	4		1								
+JI055	Camellia_SSR_016						1	1	1	2			1		
+JI056	Camellia_SSR_013					2	1	1	2						
+JI056	Camellia_SSR_016					1	2		1		2				
+JI057	Camellia_SSR_013						2	4							
+JI057	Camellia_SSR_016						1	1	2		1				1
+JI058	Camellia_SSR_013					4			2						
+JI058	Camellia_SSR_016						3				1	2			
+JI059	Camellia_SSR_013					3	2			1					
+JI059	Camellia_SSR_016				1		3		1		1				
+JI060	Camellia_SSR_013					2	1	1	1	1					
+JI060	Camellia_SSR_016						1	1		2	2				
+JI061	Camellia_SSR_013				2	2		2							
+JI061	Camellia_SSR_016					2	1	1		1	1				
+JI062	Camellia_SSR_013			1	2	2		1							
+JI062	Camellia_SSR_016							1	1	1	2		1		
+JI063	Camellia_SSR_013				4	2									
+JI063	Camellia_SSR_016					1		2		1		1	1		
+JI064	Camellia_SSR_013				1	3	1		1						
+JI064	Camellia_SSR_016						2	2	1				1		
+JI065	Camellia_SSR_013			1		4	1								
+JI065	Camellia_SSR_016					3	1			1	1				
+JI066	Camellia_SSR_013			1		2	2		1						
+JI066	Camellia_SSR_016						2	3					1		
+JI067	Camellia_SSR_013				2			2	1	1					
+JI067	Camellia_SSR_016						1	2			1	1	1		
+JI068	Camellia_SSR_013			1		3	1	1							
+JI068	Camellia_SSR_016					1		1		3	1				
+JI069	Camellia_SSR_013					2	2		2						
+JI069	Camellia_SSR_016							2	1	1	1	1			
+JI070	Camellia_SSR_013					1	4		1						
+JI070	Camellia_SSR_016							2	1	1	1	1			
+JI072	Camellia_SSR_013				2	1	1	2							
+JI072	Camellia_SSR_016					1	1	2	1				1		
+JI073	Camellia_SSR_013				2			3	1						
+JI073	Camellia_SSR_016					1		3	1		1				
+JI074	Camellia_SSR_013				2		1	2	1						
+JI074	Camellia_SSR_016						3		2		1				
+JI076	Camellia_SSR_013					1	2	1	1	1					
+JI076	Camellia_SSR_016							2	1	1	1	1			
+JI077	Camellia_SSR_013					2	1	1	2						
+JI077	Camellia_SSR_016							3			3				
+JI078	Camellia_SSR_013			1			1	2	1	1					
+JI078	Camellia_SSR_016					1	1	2			1	1			
+JI079	Camellia_SSR_013			1	1		2	1		1					
+JI079	Camellia_SSR_016					1	2	1		1	1				
+JI080	Camellia_SSR_013					3		2	1						
+JI080	Camellia_SSR_016					1	1	2	2						
+JI082	Camellia_SSR_013						2	3	1						
+JI082	Camellia_SSR_016					3		1	1				1		
+JI083	Camellia_SSR_013					4		1	1						
+JI083	Camellia_SSR_016					1		2	1	1	1				
+JI084	Camellia_SSR_013				1	1	3		1						
+JI084	Camellia_SSR_016					4	1			1					
+JI085	Camellia_SSR_013				2	1		2	1						
+JI085	Camellia_SSR_016					1	2	2	1						
+JI086	Camellia_SSR_013			1		2	1	1	1						
+JI086	Camellia_SSR_016							1		2	2	1			
+JI088	Camellia_SSR_013			1	1	2		1	1						
+JI088	Camellia_SSR_016					1		1		3	1				
+JI089	Camellia_SSR_013				2	1		1	1	1					
+JI089	Camellia_SSR_016					1	2		2			1			
+JI090	Camellia_SSR_013				1	3		1	1						
+JI090	Camellia_SSR_016						1	2	1		1		1		
+JI091	Camellia_SSR_013			3		2		1							
+JI091	Camellia_SSR_016					1		2			2		1		
+JI092	Camellia_SSR_013			4		2									
+JI092	Camellia_SSR_016					1	1	2	2						
+JI093	Camellia_SSR_013				2			1	1	2					
+JI093	Camellia_SSR_016					1	1	1	2		1				
+JI094	Camellia_SSR_013				2	1	2	1							
+JI094	Camellia_SSR_016			1					2		1	1	1		
+JI095	Camellia_SSR_013					1	2	3							
+JI095	Camellia_SSR_016							2		1	1	1	1		
+JI096	Camellia_SSR_013				1	4			1						
+JI096	Camellia_SSR_016					2	1	1			1	1			
+NL002	Camellia_SSR_013				1	2		2	1						
+NL002	Camellia_SSR_016						1		2	1	1		1		
+NL003	Camellia_SSR_013				2	2		1	1						
+NL003	Camellia_SSR_016						1		3		1		1		
+NL004	Camellia_SSR_013				2		4								
+NL004	Camellia_SSR_016							3		1	2				
+NL005	Camellia_SSR_013					2	1	1	1	1					
+NL005	Camellia_SSR_016						2	2	1	1					
+NL006	Camellia_SSR_013					5			1						
+NL006	Camellia_SSR_016						1		3	1	1				
+NL007	Camellia_SSR_013					2		3		1					
+NL007	Camellia_SSR_016						1		1		3	1			
+NL008	Camellia_SSR_013					4		1	1						
+NL008	Camellia_SSR_016							3	1				2		
+NL009	Camellia_SSR_013				3	1	1	1							
+NL009	Camellia_SSR_016					1	1	2	1	1					
+NL010	Camellia_SSR_013				1		1	3	1						
+NL010	Camellia_SSR_016						2	2	1		1				
+NL011	Camellia_SSR_013				1	2	1		1	1					
+NL011	Camellia_SSR_016					3			1		1		1		
+NL012	Camellia_SSR_013				3			2	1						
+NL012	Camellia_SSR_016				1	2			1	1	1				
+NL013	Camellia_SSR_013				2	1	1	2							
+NL013	Camellia_SSR_016														
+NL014	Camellia_SSR_013				2			1	2	1					
+NL014	Camellia_SSR_016					1	2		1		2				
+NL015	Camellia_SSR_013				3	1	1			1					
+NL015	Camellia_SSR_016							2	2			1	1		
+NL016	Camellia_SSR_013				2	1	1	1		1					
+NL016	Camellia_SSR_016					1	1	2			2				
+NL017	Camellia_SSR_013				1	2		1	1		1				
+NL017	Camellia_SSR_016					1	2	1	2						
+NL018	Camellia_SSR_013				3	1		1		1					
+NL018	Camellia_SSR_016						2	2	1		1				
+NL019	Camellia_SSR_013				1	2	1	1		1					
+NL019	Camellia_SSR_016							3	1		2				
+NL020	Camellia_SSR_013				3		1	1	1						
+NL020	Camellia_SSR_016						2	3			1				
+NL021	Camellia_SSR_013					2	2	1	1						
+NL021	Camellia_SSR_016					1	2	1	1		1				
+NL022	Camellia_SSR_013					5		1							
+NL022	Camellia_SSR_016							2	1		3				
+NL023	Camellia_SSR_013						4			2					
+NL023	Camellia_SSR_016			1			1		1	1	1	1			
+NL024	Camellia_SSR_013						1	3	2						
+NL024	Camellia_SSR_016					3	1				2				
+NL025	Camellia_SSR_013					3	2		1						
+NL025	Camellia_SSR_016				1		1	2	1		1				
+NL026	Camellia_SSR_013					3	2	1							
+NL026	Camellia_SSR_016					1	1		2		2				
+NL027	Camellia_SSR_013				3			1	1	1					
+NL027	Camellia_SSR_016						1			2	1		2		
+NL028	Camellia_SSR_013					2		2	1	1					
+NL028	Camellia_SSR_016					3				1		2			
+NL029	Camellia_SSR_013			1			1	3	1						
+NL029	Camellia_SSR_016						1	2	1		1		1		
+NL030	Camellia_SSR_013					4	1	1							
+NL030	Camellia_SSR_016					3	1				2				
+NL032	Camellia_SSR_013			1		2		1	1	1					
+NL032	Camellia_SSR_016					1	1	1		1	2				
+NL033	Camellia_SSR_013					2		3		1					
+NL033	Camellia_SSR_016					1	1	1	2			1			
+NL034	Camellia_SSR_013					4			1	1					
+NL034	Camellia_SSR_016						2	2			1	1			
+NL035	Camellia_SSR_013				1		1	2	1	1					
+NL035	Camellia_SSR_016			1	1	2	1				1				
+NL038	Camellia_SSR_013			1		2	1	2							
+NL038	Camellia_SSR_016						1	1		2	1		1		
+NL039	Camellia_SSR_013				1	1	1	1	1	1					
+NL039	Camellia_SSR_016						1	2			3				
+NL040	Camellia_SSR_013					2		1	2	1					
+NL040	Camellia_SSR_016						2	1			1	1	1		
+NL041	Camellia_SSR_013				3	2			1						
+NL041	Camellia_SSR_016			1		1	2			1	1				
+NL042	Camellia_SSR_013					3	1	1	1						
+NL042	Camellia_SSR_016				2	1		2			1				
+NL043	Camellia_SSR_013				3	1		1	1						
+NL043	Camellia_SSR_016				1		2		1		2				
+NL046	Camellia_SSR_013					3			3						
+NL046	Camellia_SSR_016				1			5							
+NL048	Camellia_SSR_013						3	3							
+NL048	Camellia_SSR_016					2					2	2			
+NL049	Camellia_SSR_013				1	1	1	1	1	1					
+NL049	Camellia_SSR_016						2	1	2		1				
+NL051	Camellia_SSR_013					5	1								
+NL051	Camellia_SSR_016								2	2	2				
+NL053	Camellia_SSR_013							6							
+NL053	Camellia_SSR_016					2		3		1					
+NL055	Camellia_SSR_013				1	3	1		1						
+NL055	Camellia_SSR_016					2	3	1							
+NL056	Camellia_SSR_013					4	2								
+NL056	Camellia_SSR_016			2						2	1	1			
+NL057	Camellia_SSR_013					4		2							
+NL057	Camellia_SSR_016						1	3	2						
+NL060	Camellia_SSR_013				3		2	1							
+NL060	Camellia_SSR_016			1				3	2						
+NL061	Camellia_SSR_013				1	2	1		1	1					
+NL061	Camellia_SSR_016					1	3		1				1		
+NL063	Camellia_SSR_013						5	1							
+NL063	Camellia_SSR_016							5				1			
+NL066	Camellia_SSR_013					3		3							
+NL066	Camellia_SSR_016						1	3	1		1				
+NL068	Camellia_SSR_013					4		2							
+NL068	Camellia_SSR_016								3		1	2			
+NL069	Camellia_SSR_013					1	2	2	1						
+NL069	Camellia_SSR_016					2		2	1		1				
+NL070	Camellia_SSR_013					4			2						
+NL070	Camellia_SSR_016					3		1			1	1			
+NL071	Camellia_SSR_013					3	2	1							
+NL071	Camellia_SSR_016							5				1			
+NL072	Camellia_SSR_013					4		2							
+NL072	Camellia_SSR_016							2		2	2				
+NL073	Camellia_SSR_013			1		2	1		1	1					
+NL073	Camellia_SSR_016					2	1	1			2				
+NL074	Camellia_SSR_013					4	2								
+NL074	Camellia_SSR_016							3		2	1				
+NL075	Camellia_SSR_013				2	1	1	1	1						
+NL075	Camellia_SSR_016							3			3				
+NL076	Camellia_SSR_013					3		2	1						
+NL076	Camellia_SSR_016					2				2	2				
+NL077	Camellia_SSR_013					5	1								
+NL077	Camellia_SSR_016							3		2		1			
+NL078	Camellia_SSR_013					3	2	1							
+NL078	Camellia_SSR_016							3	3						
+NL079	Camellia_SSR_013					1	1	2	2						
+NL079	Camellia_SSR_016				1	1		2	1		1				
+NL080	Camellia_SSR_013				4					2					
+NL080	Camellia_SSR_016				1	1		3	1						
+LF001	Camellia_SSR_013			1		2	1		2						
+LF001	Camellia_SSR_016						3			1	2				
+LF002	Camellia_SSR_013		2						4						
+LF002	Camellia_SSR_016						4	1	1						
+LF003	Camellia_SSR_013		3			1		1	1						
+LF003	Camellia_SSR_016						2	2	1		1				
+LF004	Camellia_SSR_013			1				2	2	1					
+LF004	Camellia_SSR_016					1	3				2				
+LF005	Camellia_SSR_013					1	2		2	1					
+LF005	Camellia_SSR_016							1	1	1	1		2		
+LF006	Camellia_SSR_013						2	2	2						
+LF006	Camellia_SSR_016					1	3				2				
+LF007	Camellia_SSR_013					2	1		3						
+LF007	Camellia_SSR_016						1	2	2	1					
+LF008	Camellia_SSR_013			1			2	2	1						
+LF008	Camellia_SSR_016						3		2		1				
+LF010	Camellia_SSR_013		2				1		2	1					
+LF010	Camellia_SSR_016					2				1	2		1		
+LF011	Camellia_SSR_013				2	2	2								
+LF011	Camellia_SSR_016					1	2		1	1	1				
+LF012	Camellia_SSR_013		3			1		1	1						
+LF012	Camellia_SSR_016					2					2		2		
+LF013	Camellia_SSR_013				3		1	2							
+LF013	Camellia_SSR_016					2	1	1	1		1				
+LF014	Camellia_SSR_013			1			1	4							
+LF014	Camellia_SSR_016					2		2	2						
+LF015	Camellia_SSR_013				2		2	2							
+LF015	Camellia_SSR_016					2	2	1	1						
+LF016	Camellia_SSR_013					2		2	2						
+LF016	Camellia_SSR_016						2	1	2		1				
+LF017	Camellia_SSR_013				1		1	2	2						
+LF017	Camellia_SSR_016				1		2	1	1			1			
+LF018	Camellia_SSR_013					2	1	1		1	1				
+LF018	Camellia_SSR_016					1	2	1	1		1				
+LF019	Camellia_SSR_013		2		2			1		1					
+LF019	Camellia_SSR_016						3		1	1	1				
+LF021	Camellia_SSR_013				2		1	2	1						
+LF021	Camellia_SSR_016						1		3		1	1			
+LF022	Camellia_SSR_013		2			2		1		1					
+LF022	Camellia_SSR_016						1	1		1	3				
+LF024	Camellia_SSR_013					3	1		2						
+LF024	Camellia_SSR_016			1			2		1	2					
+LF025	Camellia_SSR_013		3			2				1					
+LF025	Camellia_SSR_016					1		1		2	2				
+LF026	Camellia_SSR_013					4	1	1							
+LF026	Camellia_SSR_016					2	1		2		1				
+LF027	Camellia_SSR_013				3		1	1	1						
+LF027	Camellia_SSR_016					2			2		2				
+LF028	Camellia_SSR_013		2			1		1	1	1					
+LF028	Camellia_SSR_016					3			1	1	1				
+LF029	Camellia_SSR_013					2		1		3					
+LF029	Camellia_SSR_016					1	2	1	2						
+LF030	Camellia_SSR_013				2	1		2	1						
+LF030	Camellia_SSR_016						2		2	1	1				
