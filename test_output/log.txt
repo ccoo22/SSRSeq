@@ -102,3 +102,29 @@ output process :
     11 - allele relative
     11 - readme
     *Finished* 
+output : ./test_output/1.str.reads.raw.txt
+output : ./test_output/2.str.freq.raw.txt
+output : ./test_output/3.str.slip.ratio.txt
+output : ./test_output/4.str.reads.correct.txt
+output : ./test_output/5.str.freq.correct.txt
+output : ./test_output/6.str.amplification.ratio.txt
+output : ./test_output/7.str.typing.relative.txt
+output : ./test_output/8.str.typing.absolute.txt
+output : ./test_output/9.str.genotype.txt
+output : ./test_output/10.str.allele.txt
+output : ./test_output/11.str.allele.relative.txt
+output ./test_output/SSRSeq_type_complete.xlsx
+output process : 
+    1 - raw reads
+    2 - raw freq
+    3 - slip ratio
+    4 - correct reads
+    5 - correct freq
+    6 - amplification ratio
+    7 - typing relative
+    8 - typing absolute
+    9 - genotype
+    10 - allele
+    11 - allele relative
+    11 - readme
+    *Finished* 
