@@ -24,7 +24,7 @@ Options:
 >                            noise_cutoff:During copy number analysis, the noise threshold (STRs with frequencies below the this threshold will be directly excluded), usually set to 0.6 * type_cutoff
 >                            type_cutoff:During copy number analysis, the typing threshold (STRs with frequencies higher than this threshold will be considered true), usually set to 0.5 * (1 / (ploid * homology))
 >                                        The STR between the noise threshold and the typing threshold will be corrected and typed by a series of algorithms.
-> <br>
+> 
 >         --format/-f        the format of Sample STR abundance table:row or col
 >                            row format:each row records the number of reads of STR on a certain fragment for every sample. If a sample contains no reads, it can be 0 or left blank
 >                            First column: fragment name
@@ -32,14 +32,14 @@ Options:
 >                            The third column and after: the number of reads of this STR sequence contained in each sample
 >                            The file must include a table header. You can give the first two columns any names, but we recommend 'target' and 'str'. The following columns should be named by sample names.
 >                            example file: input_example_row.txt
->     <br>
+>      
 >                            col format:each line records the number of reads of STR on a certain fragment for a certain sample. If the sample contains no reads, it can be 0 or this line can be deleted, blank is not >allowed. Each line must have 4 columns.
 >                            First column: fragment name
 >                            Second column: STR sequence type
 >                            Third column: sample name
 >                            Fourth column: number of reads
 >                            example file: input_example_col.txt
->     <br>
+>      
 >                            Matters needing attention:
 >                            （a）Fragment name: choose any name, but use letters, numbers, or underscores only, spaces is not allowed. The fragment name must be unique (the STR of the same target fragment must have >the same fragment name), otherwise unexpected errors will occur.
 >                            （b）STR sequence type: Genesky uses a fixed format expressed as 'motif (n)', which means this STR is a sequence composed of n motif. motif is a short sequence of ATCG and must be >capitalized.e.g. AGT(8)
