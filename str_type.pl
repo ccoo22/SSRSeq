@@ -1433,7 +1433,7 @@ sub read_str_col{
        $line1 =~ s/[\r\n]//g;
     my @heads = split /\t/, $line1;
     my %hashSTRDepth;  # 记录每个片段上，每个样本的总reads数量
-    
+    my %hashSample;
     my $row = 1;
     while(<INPUT>)
     {
@@ -1441,6 +1441,7 @@ sub read_str_col{
         $row++;
         next if($_!~/\w/);
         my ($target, $str, $sample, $reads_count, $tmp) = split /\t/, $_;
+        $hashSample{$sample} = 1;
         $target =~ s/^\s+//g;  # 去掉开头、结尾的空格,防止客户失误
         $target =~ s/\s+$//g;  #  
         die "Error\n[Error] target name lost\nerror line：$row\n" if($target !~ /\w/);
@@ -1467,12 +1468,13 @@ sub read_str_col{
         $hashSTRDepth{$target}{$sample} += $reads_count;
     }
 
+    @$samples = sort keys %hashSample;
     #  统计每个样本每种STR的频率
     foreach my $target(keys %$hashSTR)
     {
         foreach my $str_seq(keys %{$hashSTR->{$target}})
         {
-            foreach my $sample(@samples)
+            foreach my $sample(@$samples)
             {
                 next if(not exists $hashSTR->{$target}{$str_seq}{$sample});  # 样本没有这种str序列
 
@@ -1480,6 +1482,7 @@ sub read_str_col{
                 $perc = 0 if($hashSTRDepth{$target}{$sample} < $min_reads); # 深度不足，频率设为0
 
                 $hashSTR->{$target}{$str_seq}{$sample}{"Freq"} = $perc;
+                
             }
         }
     }
@@ -1548,7 +1551,7 @@ sub read_str_row{
     {
         foreach my $str_seq(keys %{$hashSTR->{$target}})
         {
-            foreach my $sample(@samples)
+            foreach my $sample(@$samples)
             {
                 next if(not exists $hashSTR->{$target}{$str_seq}{$sample});  # 样本没有这种str序列
 
@@ -1605,6 +1608,10 @@ Options:
                             （a）Fragment name: choose any name, but use letters, numbers, or underscores only, spaces is not allowed. The fragment name must be unique (the STR of the same target fragment must have the same fragment name), otherwise unexpected errors will occur.
                             （b）STR sequence type: Genesky uses a fixed format expressed as 'motif (n)', which means this STR is a sequence composed of n motif. motif is a short sequence of ATCG and must be capitalized.e.g. AGT(8)
          --output_dir/-o     output directory
+         --output_model      how to generate output xlsx file. default: normal
+                             normal: only give the key genotype result. SSRSeq_type.xlsx 
+                             complete: give genotype and Correct/Amplification result. SSRSeq_type_complete.xlsx
+                             all: both of two files.
 
         [optional]
         --min_reads          the minimum reads required for typing, default: 30
