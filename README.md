@@ -72,3 +72,6 @@ perl str_type.pl -i input_example_row.txt -m motif_example.txt -f row
 ### Citing
 
 > Cui X, Li C, Qin S, Huang Z, Gan B, Jiang Z, Huang X, Yang X, Li Q, Xiang X, Chen J, Zhao Y, Rong J. High-throughput sequencing-based microsatellite genotyping for polyploids to resolve allele dosage uncertainty and improve analyses of genetic diversity, structure and differentiation: A case study of the hexaploid Camellia oleifera. Mol Ecol Resour. 2021 Jul 14. doi: 10.1111/1755-0998.13469. Epub ahead of print. PMID: 34260828.
+
+### On-line analysis
+[http://bioinfo.geneskybiotech.com/software/ssrseq_type/v1.1/](http://bioinfo.geneskybiotech.com/software/ssrseq_type/v1.1/)
